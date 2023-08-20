@@ -14,7 +14,7 @@ You can reach me at:
 <!--
 | [Sherlock](https://sherlock.xyz/)          |     |     |     |     |     |
 | [CodeHawks](https://www.codehawks.com/)    |     |     |     |     |     |
-| Private                                    |     |     |     |     |     |
+| Private                                   |     |     |     |     |     |
 -->
 
 # Audit Contests:
