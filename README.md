@@ -18,4 +18,4 @@ You can reach me at:
 
 # Report Template
 
-> [Report Template](Report_Template.md) is forked form [Spearbit-Audits](https://github.com/spearbit-audits/report-template/blob/main/report.md)
+[Report Template](Report_Template.md) is forked form [Spearbit-Audits](https://github.com/spearbit-audits/report-template/blob/main/report.md)
