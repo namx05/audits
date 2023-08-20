@@ -5,16 +5,24 @@ You can reach me at:
 > Discord : @namx05\
 > Twitter : [namx05](https://twitter.com/namx05)
 
-<!-- [CodeArena](https://code4rena.com/)       -->
-<!-- [Sherlock](https://sherlock.xyz/)         -->
-<!-- [CodeHawks](https://www.codehawks.com/)   -->
+# Total Findings
+
+| Profile                                    | C   | H   | M   | L   | QA  |
+| ------------------------------------------ | --- | --- | --- | --- | --- |
+| [CodeArena](https://code4rena.com/@namx05) |     |     | 1   |     |     |
+
+<!--
+| [Sherlock](https://sherlock.xyz/)          |     |     |     |     |     |
+| [CodeHawks](https://www.codehawks.com/)    |     |     |     |     |     |
+| Private                                    |     |     |     |     |     |
+ -->
 
 # Audit Contests:
 
-| Date     | Platform                            | Protocol                                   | Rank | Report                  | H   | M   |
-| -------- | ----------------------------------- | ------------------------------------------ | ---- | ----------------------- | --- | --- |
-|          |                                     |                                            |      |                         |     |     |
-| July, 23 | [CodeArena](https://code4rena.com/) | [Pool Together](https://pooltogether.com/) | 89   | Report (Not Public yet) |     | 1   |
+| Date     | Protocol      | Platform  | Rank | Report                  |
+| -------- | ------------- | --------- | ---- | ----------------------- |
+|          |               |           |      |                         |
+| July, 23 | Pool Together | CodeArena | 89   | Report (Not Public yet) |
 
 # Report Template
 
