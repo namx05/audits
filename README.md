@@ -1,9 +1,14 @@
 # Smart Contract Audit and Finding Reports by nax.eth
 
+I'm a Security Reseaher @CredShields || Smart Contract Auditor @Code4rena @Sherlock
+
 You can reach me at:
 
-> Discord : @namx05\
+> Discord : @namx05
+
 > Twitter : [namx05](https://twitter.com/namx05)
+
+<br>
 
 # Total Findings
 
@@ -17,12 +22,16 @@ You can reach me at:
 | Private                                   |     |     |     |     |     |
 -->
 
+<br>
+
 # Audit Contests:
 
 | Date     | Protocol      | Platform  | Rank | Report                  |
 | -------- | ------------- | --------- | ---- | ----------------------- |
 |          |               |           |      |                         |
 | July, 23 | Pool Together | CodeArena | 89   | Report (Not Public yet) |
+
+<br>
 
 # Report Template
 
