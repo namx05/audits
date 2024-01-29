@@ -12,6 +12,8 @@
 
 **Description:**
 
+**Code Snippet**
+
 ```solidity
 contract Test {
     ...
