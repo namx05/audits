@@ -6,7 +6,9 @@ You can reach me at:
 
 > Discord : @namx05
 
-> Twitter : [namx05](https://twitter.com/namx05)
+> Telegram: [@namx05](t.me/namx05)
+
+> X: [@namx05](https://twitter.com/namx05)
 
 <br>
 
