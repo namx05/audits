@@ -31,7 +31,7 @@ You can reach me at:
 | Date     | Protocol      | Platform  | Rank | Report                  |
 | -------- | ------------- | --------- | ---- | ----------------------- |
 |          |               |           |      |                         |
-| July, 23 | Pool Together | CodeArena | 89   | Report (Not Public yet) |
+| July, 23 | Pool Together | CodeArena | 89   | [Report](https://github.com/code-423n4/2023-07-pooltogether-findings/issues/431) |
 
 <br>
 
