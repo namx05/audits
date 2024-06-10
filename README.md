@@ -28,10 +28,10 @@ You can reach me at:
 
 # Audit Contests:
 
-| Date     | Protocol      | Platform  | Rank | Report                  |
-| -------- | ------------- | --------- | ---- | ----------------------- |
-|          |               |           |      |                         |
-| July, 23 | Pool Together | CodeArena | 89   | Report (Not Public yet) |
+| Date     | Protocol      | Platform  | Rank | Report                                                                           |
+| -------- | ------------- | --------- | ---- | -------------------------------------------------------------------------------- |
+|          |               |           |      |                                                                                  |
+| July, 23 | Pool Together | CodeArena | 89   | [Report](https://github.com/code-423n4/2023-07-pooltogether-findings/issues/431) |
 
 <br>
 
