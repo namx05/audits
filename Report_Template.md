@@ -21,7 +21,7 @@ contract Test {
 }
 ```
 
-**Impact**:
+**Impact:**
 
 **Recommendation:**
 
