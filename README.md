@@ -1,7 +1,6 @@
-<!-- # Smart Contract Audit and Finding Reports by nax.eth -->
+# Smart Contract Audit and Finding Reports by nax.eth
 
-## This repository represents nax.eth's portfolio of Public Smart Contract Security Audits and Audit Contests Findings
-
+This repository represents my portfolio of Public Smart Contract Security Audits and Audit Contests Findings
 <br>
 
 ## Overall Stats
