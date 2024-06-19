@@ -1,10 +1,12 @@
 <!-- # Smart Contract Audit and Finding Reports by nax.eth -->
 
-## This repository represents my portfolio of Public Smart Contract Security Audits and Audit Contests Findings
+## This repository represents nax.eth's portfolio of Public Smart Contract Security Audits and Audit Contests Findings
 
-## Total Findings
+<br>
 
-| Profile                                    | C   | H   | M   | L   |
+## Overall Stats
+
+|                                            | C   | H   | M   | L   |
 | ------------------------------------------ | --- | --- | --- | --- |
 | Solo                                       |     | 1   |     | 5   |
 | Team                                       | 6   | 7   | 19  | 20  |
