@@ -19,14 +19,11 @@ I am available for Smart Contract Sercuity Audits. You can reach me at:
 | Team (Collaborative)                       | 32      | 6        | 7    | 19     | 20  |
 | [CodeArena](https://code4rena.com/@namx05) | 1       | -        | -    | 1      | -   |
 
->
+> 60% for my audits are on collaborative basis
 
-<!--
-| [Sherlock](https://sherlock.xyz/)          |     |     |     |     |     |
-| [CodeHawks](https://www.codehawks.com/)    |     |     |     |     |     |
-| Private                                   |     |     |     |     |     |
+<!-- | [Sherlock](https://sherlock.xyz/)          |         |          |      |        |     |
+| [CodeHawks](https://www.codehawks.com/)    |         |          |      |        |     |
 -->
-
 <br>
 
 ## Audit Contests
@@ -44,17 +41,18 @@ I am available for Smart Contract Sercuity Audits. You can reach me at:
 
 ### Solo
 
-<!-- |                  | |                   |         | [Report]()                                                                                       | -->
+<!-- |           |                |                     |          |      |        |     | [Report]()                                                                                                        | -->
 
 | Date      | Protocol       | (Critical, High, M) | Critical | High | Medium | Low | Report                                                                                                            |
 | --------- | -------------- | ------------------- | -------- | ---- | ------ | --- | ----------------------------------------------------------------------------------------------------------------- |
 | April, 24 | Factiiv        | -                   | -        | -    | -      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Factiiv_Token_Final_Audit_Report.pdf)           |
 | April, 24 | Arcana Staking | 1                   | -        | 1    | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Arcana_Staking_Contract_Final_Audit_Report.pdf) |
 | May, 24   | Compad Coin    | -                   | -        | -    | -      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Compad_Coin_Final_Audit_Report.pdf)             |
+| June, 24  | Moby           | -                   | -        | -    | -      | -   | [Report](https://github.com/Credshields/audit-reports/blob/master/Moby_Smart_Contract_Final_Report.pdf)           |
 
 ### Team
 
-<!-- |                 |   |                   |         | [Report]()                                                                                       | -->
+<!-- |           |                |                     |          |      |        |     | [Report]()                                                                                                        | -->
 
 | Date        | Protocol          | (Critical, High, M) | Critical | High | Medium | Low | Report                                                                                                 |
 | ----------- | ----------------- | ------------------- | -------- | ---- | ------ | --- | ------------------------------------------------------------------------------------------------------ |
