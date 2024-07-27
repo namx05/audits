@@ -15,7 +15,7 @@ I am available for Smart Contract Sercuity Audits. You can reach me at:
 
 |                                            | (Critical/High) | Medium | Low |
 | ------------------------------------------ | --------------- | ------ | --- |
-| Solo                                       | 1               | -      | 6   |
+| Solo                                       | 1               | -      | 8   |
 | Team (Collaborative)                       | 13              | 19     | 20  |
 | [CodeArena](https://code4rena.com/@namx05) | -               | 1      | -   |
 
@@ -50,6 +50,7 @@ I am available for Smart Contract Sercuity Audits. You can reach me at:
 | May, 24   | Compad Coin    | -               | -      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Compad_Coin_Final_Audit_Report.pdf)             |
 | June, 24  | Moby           | -               | -      | -   | [Report](https://github.com/Credshields/audit-reports/blob/master/Moby_Smart_Contract_Final_Report.pdf)           |
 | June, 24  | Asset Chain    | -               | -      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Asset_Chain_Final_Audit_Report.pdf)             |
+| July, 24  | Styleo Coin    | -               | -      | 2   | [Report](https://github.com/Credshields/audit-reports/blob/master/Styleo%20Coin%20Final%20Audit%20Report.pdf)     |
 
 ### Team
 
