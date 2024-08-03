@@ -5,14 +5,16 @@
 
 <br>
 
-Table of contents:
-
-- [Pashov's Guide](#pashov)
+## Table of contents:
+- [Severity Ranking Guide](#severity-ranking-guide)
+  - [Table of contents:](#table-of-contents)
+- [Pashov's Severity Ranking System](#pashovs-severity-ranking-system)
 - [Critical](#critical)
+    - [Difference Between High \& Medium](#difference-between-high--medium)
 - [High](#high)
-  - [Difference b/w High and Mediums](#difference-between-high--medium)
+    - [Difference Between High \& Medium](#difference-between-high--medium-1)
 - [Medium](#medium)
-  - [Difference b/w Medium and Low](#difference-between-medium--low)
+    - [Difference between Medium \& Low](#difference-between-medium--low)
 - [Low](#low)
 
 <br>
