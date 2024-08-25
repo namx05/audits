@@ -16,7 +16,7 @@ I am available for Smart Contract Sercuity Audits. You can reach me at:
 |                                            | (Critical/High) | Medium | Low |
 | ------------------------------------------ | --------------- | ------ | --- |
 | Solo                                       | 1               | -      | 8   |
-| Team (Collaborative)                       | 13              | 19     | 20  |
+| Team                                       | 15              | 24     | 24  |
 | [CodeArena](https://code4rena.com/@namx05) | -               | 1      | -   |
 
 > 60% for my audits are on collaborative basis
@@ -41,20 +41,19 @@ I am available for Smart Contract Sercuity Audits. You can reach me at:
 
 ### Solo
 
-<!-- |           |                |                     |          |      |        |     | [Report]()                                                                                                        | -->
+<!-- |           |                |                     |              |     | [Report]()                                                                                                        | -->
 
 | Date      | Protocol       | (Critical/High) | Medium | Low | Report                                                                                                            |
 | --------- | -------------- | --------------- | ------ | --- | ----------------------------------------------------------------------------------------------------------------- |
 | April, 24 | Factiiv        | -               | -      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Factiiv_Token_Final_Audit_Report.pdf)           |
 | April, 24 | Arcana Staking | 1               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Arcana_Staking_Contract_Final_Audit_Report.pdf) |
 | May, 24   | Compad Coin    | -               | -      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Compad_Coin_Final_Audit_Report.pdf)             |
-| June, 24  | Moby           | -               | -      | -   | [Report](https://github.com/Credshields/audit-reports/blob/master/Moby_Smart_Contract_Final_Report.pdf)           |
 | June, 24  | Asset Chain    | -               | -      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Asset_Chain_Final_Audit_Report.pdf)             |
 | July, 24  | Styleo Coin    | -               | -      | 2   | [Report](https://github.com/Credshields/audit-reports/blob/master/Styleo%20Coin%20Final%20Audit%20Report.pdf)     |
 
 ### Team
 
-<!-- |           |                |                     |          |      |        |     | [Report]()                                                                                                        | -->
+<!-- |           |                |                     |                |     | [Report]()                                                                                                        | -->
 
 | Date    | Protocol          | (Critical/High) | Medium | Low | Report                                                                                                 |
 | ------- | ----------------- | --------------- | ------ | --- | ------------------------------------------------------------------------------------------------------ |
@@ -63,6 +62,8 @@ I am available for Smart Contract Sercuity Audits. You can reach me at:
 | Feb, 24 | Arcana: Paymaster | -               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Arcana_PayMaster_Final_Report.pdf)   |
 | May, 24 | Rex Protocol      | 6               | 4      | 5   | [Report](https://github.com/Credshields/audit-reports/blob/master/Rex_Exchange_Final_Audit_Report.pdf) |
 | May, 24 | aUSD: Stable Jack | 5               | 11     | 6   | [Report](https://github.com/Credshields/audit-reports/blob/master/aUSD_SC_Final_Audit_Report.pdf)      |
+| Aug, 25 | Plutope           | 2               | 5      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)      |
+| Aug, 24 | Emblium Labs      | -               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Kaku_SmartContract_Final_Report.pdf) |
 
 <br>
 
