@@ -62,7 +62,7 @@ I am available for Smart Contract Sercuity Audits. You can reach me at:
 | Feb, 24 | Arcana: Paymaster | -               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Arcana_PayMaster_Final_Report.pdf)   |
 | May, 24 | Rex Protocol      | 6               | 4      | 5   | [Report](https://github.com/Credshields/audit-reports/blob/master/Rex_Exchange_Final_Audit_Report.pdf) |
 | May, 24 | aUSD: Stable Jack | 5               | 11     | 6   | [Report](https://github.com/Credshields/audit-reports/blob/master/aUSD_SC_Final_Audit_Report.pdf)      |
-| Aug, 25 | Plutope           | 2               | 5      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)      |
+| Aug, 24 | Plutope           | 2               | 5      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)      |
 | Aug, 24 | Emblium Labs      | -               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Kaku_SmartContract_Final_Report.pdf) |
 
 <br>
