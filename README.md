@@ -16,7 +16,7 @@ I am available for Smart Contract Sercuity Audits. You can reach me at:
 |                                            | (Critical/High) | Medium | Low |
 | ------------------------------------------ | --------------- | ------ | --- |
 | Solo                                       | 1               | -      | 8   |
-| Team                                       | 15              | 24     | 24  |
+| Team                                       | 20              | 26     | 26  |
 | [CodeArena](https://code4rena.com/@namx05) | -               | 1      | -   |
 
 > 60% for my audits are on collaborative basis
@@ -55,15 +55,16 @@ I am available for Smart Contract Sercuity Audits. You can reach me at:
 
 <!-- |           |                |                     |                |     | [Report]()                                                                                                        | -->
 
-| Date    | Protocol          | (Critical/High) | Medium | Low | Report                                                                                                 |
-| ------- | ----------------- | --------------- | ------ | --- | ------------------------------------------------------------------------------------------------------ |
-| Jan, 24 | Numa              | -               | 1      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Numa_Final_Audit_Report.pdf)         |
-| Feb, 24 | Wasset            | 2               | 3      | 5   | [Report](https://github.com/Credshields/audit-reports/blob/master/Wasset_Final_Audit_Report.pdf)       |
-| Feb, 24 | Arcana: Paymaster | -               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Arcana_PayMaster_Final_Report.pdf)   |
-| May, 24 | Rex Protocol      | 6               | 4      | 5   | [Report](https://github.com/Credshields/audit-reports/blob/master/Rex_Exchange_Final_Audit_Report.pdf) |
-| May, 24 | aUSD: Stable Jack | 5               | 11     | 6   | [Report](https://github.com/Credshields/audit-reports/blob/master/aUSD_SC_Final_Audit_Report.pdf)      |
-| Aug, 24 | Plutope           | 2               | 5      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)      |
-| Aug, 24 | Emblium Labs      | -               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Kaku_SmartContract_Final_Report.pdf) |
+| Date    | Protocol          | (Critical/High) | Medium | Low | Report                                                                                                                           |
+| ------- | ----------------- | --------------- | ------ | --- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Jan, 24 | Numa              | -               | 1      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Numa_Final_Audit_Report.pdf)                                   |
+| Feb, 24 | Wasset            | 2               | 3      | 5   | [Report](https://github.com/Credshields/audit-reports/blob/master/Wasset_Final_Audit_Report.pdf)                                 |
+| Feb, 24 | Arcana: Paymaster | -               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Arcana_PayMaster_Final_Report.pdf)                             |
+| May, 24 | Rex Protocol      | 6               | 4      | 5   | [Report](https://github.com/Credshields/audit-reports/blob/master/Rex_Exchange_Final_Audit_Report.pdf)                           |
+| May, 24 | aUSD: Stable Jack | 5               | 11     | 6   | [Report](https://github.com/Credshields/audit-reports/blob/master/aUSD_SC_Final_Audit_Report.pdf)                                |
+| Aug, 24 | Plutope           | 2               | 5      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)                                |
+| Aug, 24 | Emblium Labs      | -               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Kaku_SmartContract_Final_Report.pdf)                           |
+| Aug, 24 | LogX              | 5               | 2      | 2   | [Report](https://github.com/Credshields/audit-reports/blob/4d34781e41a23c270314fac5aced61fc24370f4c/LogX_Token_Final_Report.pdf) |
 
 <br>
 
