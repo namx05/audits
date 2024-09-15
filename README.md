@@ -31,8 +31,8 @@ I am available for Smart Contract Sercuity Audits. You can reach me at:
 | Date     | Protocol      | Platform  | Rank | Critical/High | Medium | Low | Report                                     |
 | -------- | ------------- | --------- | ---- | ------------- | ------ | --- | ------------------------------------------ |
 |          |               |           |      |               |        |     |                                            |
-| July, 23 | Pool Together | CodeArena | 89   | -             | 1      | -   | [Report](solo/C4/PoolTogether_July, 23.md) |
-| July, 24 | Trait Forge   | CodeArena | 39   | 1             | -      | -   | [Report](solo/C4/TraitForge_July, 24.md)   |
+| July, 23 | Pool Together | CodeArena | 89   | -             | 1      | -   | [Report](solo/C4/PoolTogether_July23.md) |
+| July, 24 | Trait Forge   | CodeArena | 39   | 1             | -      | -   | [Report](solo/C4/TraitForge_July24.md)   |
 
 <br>
 
