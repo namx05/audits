@@ -15,7 +15,7 @@ I am available for Smart Contract Sercuity Audits. You can reach me at:
 
 | Type      | Platform                                                                   | (Critical/High) | Medium | Low |
 | --------- | -------------------------------------------------------------------------- | --------------- | ------ | --- |
-| Solo/Team | Firm: CredShields                                                          | 26              | 31     | 49  |
+| Solo/Team | Firm: CredShields                                                          | 29              | 31     | 49  |
 | Solo      | [CodeArena](https://code4rena.com/@namx05)                                 | 1               | 1      | -   |
 | Solo      | [CodeHawks](https://codehawks.cyfrin.io/profile/clk3yqzs7000wla083twjcgwh) | -               | 1      | -   |
 
@@ -66,11 +66,16 @@ I am available for Smart Contract Sercuity Audits. You can reach me at:
 | May, 24  | Rex Protocol      | 6               | 4      | 5   | [Report](https://github.com/Credshields/audit-reports/blob/master/Rex_Exchange_Final_Audit_Report.pdf)                           |
 | May, 24  | aUSD: Stable Jack | 5               | 11     | 6   | [Report](https://github.com/Credshields/audit-reports/blob/master/aUSD_SC_Final_Audit_Report.pdf)                                |
 | June, 24 | Kresus            | 2               | 1      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Kresus_Final_Audit_Report.pdf)                                 |
+| July, 24 | Protop Token      | -               | -      | 2   | [Report](https://github.com/Credshields/audit-reports/blob/master/Protop_Token_Contract_Final%20Report.pdf)                      |
+| July, 24 | Protop Vesting    | 1               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Protop_Vesting_Contracts_Final_Report.pdf)                     |
+| July, 24 | Tribally Games    | 1               | -      | 4   | [Report](https://github.com/Credshields/audit-reports/blob/master/Tribally_Games_Final_Report.pdf)                               |
 | July, 24 | SAN               | 1               | 4      | 6   | [Report](https://github.com/Credshields/audit-reports/blob/master/SAN_Final_Report.pdf)                                          |
 | July, 24 | Tribally Games    | 1               | -      | 4   | [Report](https://github.com/Credshields/audit-reports/blob/master/Tribally_Games_Final_Report.pdf)                               |
 | Aug, 24  | Plutope           | 2               | 5      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)                                |
 | Aug, 24  | Emblium Labs      | -               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Kaku_SmartContract_Final_Report.pdf)                           |
 | Aug, 24  | LogX              | 5               | 2      | 4   | [Report](https://github.com/Credshields/audit-reports/blob/4d34781e41a23c270314fac5aced61fc24370f4c/LogX_Token_Final_Report.pdf) |
+| Sep, 24  | Vouch             | 1               | 1      | 5   | [Report](https://github.com/Credshields/audit-reports/blob/master/Vouch_Contract_Final_Audit_Report.pdf)                         |
+
 
 <br>
 
