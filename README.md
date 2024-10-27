@@ -1,81 +1,70 @@
 # Smart Contract Audit and Finding Reports by nax.eth
 
-This repository represents my portfolio of Public Smart Contract Security Audits and Audit Contests Findings
+Listed below are the Smart Contract audits I’ve conducted since starting in Web3 security. Each entry includes the publishing firm and a link to the public report.
+
+- [naxm05](https://audits.sherlock.xyz/watson/namx05) (Freelancing): June, 2024 - onwards
+- Credshields (Auditor): January, 2024 - onwards
+
 <br>
 
 ## Contacts
 
-I am available for Smart Contract Sercuity Audits. You can reach me at:
+I am available for Smart Contract Sercuity Audits. You can reach me at
 
-- Discord : @namx05
-- Telegram: [@namx05](https://t.me/namx05)
-- X: [@namx05](https://twitter.com/namx05)
+- X (Twitter): [@namx05](https://twitter.com/namx05)
 
-## Overall Stats
+## Profile
 
-| Type      | Platform                                                                   | (Critical/High) | Medium | Low |
-| --------- | -------------------------------------------------------------------------- | --------------- | ------ | --- |
-| Solo/Team | Firm: CredShields                                                          | 29              | 31     | 49  |
-| Solo      | [CodeArena](https://code4rena.com/@namx05)                                 | 1               | 1      | -   |
-| Solo      | [CodeHawks](https://codehawks.cyfrin.io/profile/clk3yqzs7000wla083twjcgwh) | -               | 1      | -   |
-
+- [CodeArena](https://code4rena.com/@namx05)
+- [CodeHawks](https://profiles.cyfrin.io/u/namx05)
 <!-- | [Sherlock](https://sherlock.xyz/)                                          |                 |        |     |      -->
 
-> 60% for my audits are on collaborative basis
+<br>
+
+> [!TIP]
+> The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰.
+
+## Public Audit Contests
+
+|     | Tech         | Frim      | Rank | Report                                                     | Critical/High | Medium |
+| --- | ------------ | --------- | ---- | ---------------------------------------------------------- | ------------- | ------ |
+|     |              |           |      |                                                            |               |        |
+| 💎  | Solidity/EVM | CodeHawks | 177  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/s/679) | 1             |        |
+| 💎  | Solidity/EVM | CodeArena | 39   | [Trait Forge](solo/C4/TraitForge_July24.md)                | 1             | -      |
+| 📰  | Solidity/EVM | CodeArena | 89   | [Pool Together](solo/C4/PoolTogether_July23.md)            | -             | 1      |
 
 <br>
 
-## Audit Contests
+## Audits
 
-| Date     | Protocol      | Platform  | Rank | Critical/High | Medium | Low | Report                                                      |
-| -------- | ------------- | --------- | ---- | ------------- | ------ | --- | ----------------------------------------------------------- |
-|          |               |           |      |               |        |     |                                                             |
-| July, 23 | Pool Together | CodeArena | 89   | -             | 1      | -   | [Report](solo/C4/PoolTogether_July23.md)                    |
-| July, 24 | Trait Forge   | CodeArena | 39   | 1             | -      | -   | [Report](solo/C4/TraitForge_July24.md)                      |
-| Aug, 24  | Tadle         | CodeHawks | 177  | -             | 1      | -   | [Report](https://codehawks.cyfrin.io/c/2024-08-tadle/s/679) |
+|     | Tech         | Firm        | Report                                                                                                                          |
+| --- | ------------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------- |
+|     |              |             |                                                                                                                                 |
+| 👌  | Solidity/EVM | Credshields | [Lara Protocol ](https://github.com/Credshields/audit-reports/blob/master/Lara_Liquid_Staking_Final_Audit_Report.pdf)           |
+| 👌  | Solidity/EVM | Credshields | [Protop Vesting ](https://github.com/Credshields/audit-reports/blob/master/Protop_Vesting_Contracts_Final_Report.pdf)           |
+| 👌  | Solidity/EVM | Credshields | [Vouch ](https://github.com/Credshields/audit-reports/blob/master/Vouch_Contract_Final_Audit_Report.pdf)                        |
+| 📰  | Solidity/EVM | Credshields | [Protop Token ](https://github.com/Credshields/audit-reports/blob/master/Protop_Token_Contract_Final%20Report.pdf)              |
+| 📰  | Solidity/EVM | Credshields | [Tribally Games ](https://github.com/Credshields/audit-reports/blob/master/Tribal_Token_Final_Report.pdf)                       |
+| 👌  | Solidity/EVM | Credshields | [SAN ](https://github.com/Credshields/audit-reports/blob/master/SAN_Final_Report.pdf)                                           |
+| 👌  | Solidity/EVM | Credshields | [Tribally Games ](https://github.com/Credshields/audit-reports/blob/master/Tribally_Games_Final_Report.pdf)                     |
+| 💎  | Solidity/EVM | Credshields | [Plutope ](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)                             |
+| 📰  | Solidity/EVM | Credshields | [Emblium Labs Limited](https://github.com/Credshields/audit-reports/blob/master/Kaku_SmartContract_Final_Report.pdf)            |
+| 💎  | Solidity/EVM | Credshields | [LogX ](https://github.com/Credshields/audit-reports/blob/4d34781e41a23c270314fac5aced61fc24370f4c/LogX_Token_Final_Report.pdf) |
+| 👌  | Solidity/EVM | Credshields | [Kresus ](https://github.com/Credshields/audit-reports/blob/master/Kresus_Final_Audit_Report.pdf)                               |
+| 📰  | Solidity/EVM | Credshields | [Asset Chain ](https://github.com/Credshields/audit-reports/blob/master/Asset_Chain_Final_Audit_Report.pdf)                     |
+| 📰  | Solidity/EVM | Credshields | [Styleo Coin ](https://github.com/Credshields/audit-reports/blob/master/Styleo%20Coin%20Final%20Audit%20Report.pdf)             |
+| 💎  | Solidity/EVM | Credshields | [Rex Protocol ](https://github.com/Credshields/audit-reports/blob/master/Rex_Exchange_Final_Audit_Report.pdf)                   |
+| 💎  | Solidity/EVM | Credshields | [aUSD: Stable Jack ](https://github.com/Credshields/audit-reports/blob/master/aUSD_SC_Final_Audit_Report.pdf)                   |
+| 📰  | Solidity/EVM | Credshields | [Moby](https://github.com/Credshields/audit-reports/blob/master/Moby_Smart_Contract_Final_Report.pdf)                           |
+| 📰  | Solidity/EVM | Credshields | [Compad Coin ](https://github.com/Credshields/audit-reports/blob/master/Compad_Coin_Final_Audit_Report.pdf)                     |
+| 📰  | Solidity/EVM | Credshields | [Factiiv ](https://github.com/Credshields/audit-reports/blob/master/Factiiv_Token_Final_Audit_Report.pdf)                       |
+| 👌  | Solidity/EVM | Credshields | [Arcana Staking ](https://github.com/Credshields/audit-reports/blob/master/Arcana_Staking_Contract_Final_Audit_Report.pdf)      |
+| 📰  | Solidity/EVM | Credshields | [Arcana: Paymaster ](https://github.com/Credshields/audit-reports/blob/master/Arcana_PayMaster_Final_Report.pdf)                |
+| 💎  | Solidity/EVM | Credshields | [Wasset ](https://github.com/Credshields/audit-reports/blob/master/Wasset_Final_Audit_Report.pdf)                               |
+| 👌  | Solidity/EVM | Credshields | [Numa ](https://github.com/Credshields/audit-reports/blob/master/Numa_Final_Audit_Report.pdf)                                   |
 
-<br>
-
-## Firm Audits: Credshields
-
-> Some of the Audit Reports are yet to be approved. Will be updated soon!
-
-### Solo
-
-<!-- |           |                |                     |              |     | [Report]()                                                                                                        | -->
-
-| Date      | Protocol       | (Critical/High) | Medium | Low | Report                                                                                                            |
-| --------- | -------------- | --------------- | ------ | --- | ----------------------------------------------------------------------------------------------------------------- |
-|           |                |                 |        |     |                                                                                                                   |
-| April, 24 | Factiiv        | -               | -      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Factiiv_Token_Final_Audit_Report.pdf)           |
-| April, 24 | Arcana Staking | 1               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Arcana_Staking_Contract_Final_Audit_Report.pdf) |
-| May, 24   | Compad Coin    | -               | -      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Compad_Coin_Final_Audit_Report.pdf)             |
-| June, 24  | Asset Chain    | -               | -      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Asset_Chain_Final_Audit_Report.pdf)             |
-| July, 24  | Styleo Coin    | -               | -      | 2   | [Report](https://github.com/Credshields/audit-reports/blob/master/Styleo%20Coin%20Final%20Audit%20Report.pdf)     |
-
-### Team
-
-<!-- |           |                |                     |                |     | [Report]()                                                                                                        | -->
-
-| Date     | Protocol          | (Critical/High) | Medium | Low | Report                                                                                                                           |
-| -------- | ----------------- | --------------- | ------ | --- | -------------------------------------------------------------------------------------------------------------------------------- |
-|          |                   |                 |        |     |                                                                                                                                  |
-| Jan, 24  | Numa              | -               | 1      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Numa_Final_Audit_Report.pdf)                                   |
-| Feb, 24  | Wasset            | 2               | 3      | 5   | [Report](https://github.com/Credshields/audit-reports/blob/master/Wasset_Final_Audit_Report.pdf)                                 |
-| Feb, 24  | Arcana: Paymaster | -               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Arcana_PayMaster_Final_Report.pdf)                             |
-| May, 24  | Rex Protocol      | 6               | 4      | 5   | [Report](https://github.com/Credshields/audit-reports/blob/master/Rex_Exchange_Final_Audit_Report.pdf)                           |
-| May, 24  | aUSD: Stable Jack | 5               | 11     | 6   | [Report](https://github.com/Credshields/audit-reports/blob/master/aUSD_SC_Final_Audit_Report.pdf)                                |
-| June, 24 | Kresus            | 2               | 1      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Kresus_Final_Audit_Report.pdf)                                 |
-| July, 24 | Protop Token      | -               | -      | 2   | [Report](https://github.com/Credshields/audit-reports/blob/master/Protop_Token_Contract_Final%20Report.pdf)                      |
-| July, 24 | Protop Vesting    | 1               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Protop_Vesting_Contracts_Final_Report.pdf)                     |
-| July, 24 | Tribally Games    | 1               | -      | 4   | [Report](https://github.com/Credshields/audit-reports/blob/master/Tribally_Games_Final_Report.pdf)                               |
-| July, 24 | SAN               | 1               | 4      | 6   | [Report](https://github.com/Credshields/audit-reports/blob/master/SAN_Final_Report.pdf)                                          |
-| July, 24 | Tribally Games    | 1               | -      | 4   | [Report](https://github.com/Credshields/audit-reports/blob/master/Tribally_Games_Final_Report.pdf)                               |
-| Aug, 24  | Plutope           | 2               | 5      | 1   | [Report](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)                                |
-| Aug, 24  | Emblium Labs      | -               | -      | 3   | [Report](https://github.com/Credshields/audit-reports/blob/master/Kaku_SmartContract_Final_Report.pdf)                           |
-| Aug, 24  | LogX              | 5               | 2      | 4   | [Report](https://github.com/Credshields/audit-reports/blob/4d34781e41a23c270314fac5aced61fc24370f4c/LogX_Token_Final_Report.pdf) |
-| Sep, 24  | Vouch             | 1               | 1      | 5   | [Report](https://github.com/Credshields/audit-reports/blob/master/Vouch_Contract_Final_Audit_Report.pdf)                         |
-
+> [!IMPORTANT]
+> 80% for my audits are on collaborative basis (with team)
 
 <br>
 
