@@ -2,29 +2,20 @@
 
 Listed below are the Smart Contract audits I’ve conducted since starting in Web3 security. Each entry includes the publishing firm and a link to the public report.
 
-- [naxm05](https://audits.sherlock.xyz/watson/namx05) (Freelancing): June, 2024 - onwards
+- [naxm05](https://audits.sherlock.xyz/watson/namx05) (Freelancing): June, 2023 - onwards
 - Credshields (Auditor): January, 2024 - onwards
-
-<br>
-
-## Contacts
-
-I am available for Smart Contract Sercuity Audits. You can reach me at
-
-- X (Twitter): [@namx05](https://twitter.com/namx05)
 
 ## Profile
 
 - [CodeArena](https://code4rena.com/@namx05)
 - [CodeHawks](https://profiles.cyfrin.io/u/namx05)
-<!-- | [Sherlock](https://sherlock.xyz/)                                          |                 |        |     |      -->
-
-<br>
+  <!-- | [Sherlock](https://sherlock.xyz/)                                          |                 |        |     |      -->
+  <br>
 
 > [!TIP]
 > The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰.
 
-## Public Audit Contests
+## Contests
 
 |     | Tech         | Frim      | Rank | Report                                                     | Critical/High | Medium |
 | --- | ------------ | --------- | ---- | ---------------------------------------------------------- | ------------- | ------ |
@@ -34,6 +25,9 @@ I am available for Smart Contract Sercuity Audits. You can reach me at
 | 📰  | Solidity/EVM | CodeArena | 89   | [Pool Together](solo/C4/PoolTogether_July23.md)            | -             | 1      |
 
 <br>
+
+> [!IMPORTANT]
+> 80% for my firm audits are on collaborative basis (with team)
 
 ## Audits
 
@@ -62,11 +56,6 @@ I am available for Smart Contract Sercuity Audits. You can reach me at
 | 📰  | Solidity/EVM | Credshields | [Arcana: Paymaster ](https://github.com/Credshields/audit-reports/blob/master/Arcana_PayMaster_Final_Report.pdf)                |
 | 💎  | Solidity/EVM | Credshields | [Wasset ](https://github.com/Credshields/audit-reports/blob/master/Wasset_Final_Audit_Report.pdf)                               |
 | 👌  | Solidity/EVM | Credshields | [Numa ](https://github.com/Credshields/audit-reports/blob/master/Numa_Final_Audit_Report.pdf)                                   |
-
-> [!IMPORTANT]
-> 80% for my audits are on collaborative basis (with team)
-
-<br>
 
 ## Report Template
 
