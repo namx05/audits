@@ -4,13 +4,10 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 - [naxm05](https://audits.sherlock.xyz/watson/namx05) (Freelancing): June, 2023 - onwards
 - Credshields (Auditor): January, 2024 - onwards
+<br>
 
-## Profile
-
-- [CodeArena](https://code4rena.com/@namx05)
-- [CodeHawks](https://profiles.cyfrin.io/u/namx05)
-  <!-- | [Sherlock](https://sherlock.xyz/)                                          |                 |        |     |      -->
-  <br>
+> [!NOTE]
+> Public audit contest stats by [@sherlock](https://audits.sherlock.xyz/watson/namx05)
 
 > [!TIP]
 > The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰.
