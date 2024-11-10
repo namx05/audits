@@ -4,7 +4,7 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 - [naxm05](https://audits.sherlock.xyz/watson/namx05) (Freelancing): June, 2023 - onwards
 - Credshields (Auditor): January, 2024 - onwards
-<br>
+  <br>
 
 > [!NOTE]
 > Public audit contest stats by [@sherlock](https://audits.sherlock.xyz/watson/namx05)
@@ -31,6 +31,7 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 |     | Tech         | Firm        | Report                                                                                                                          |
 | --- | ------------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------- |
 |     |              |             |                                                                                                                                 |
+| 💎  | Solidity/EVM | Credshields | [Save Planet Earth](https://github.com/Credshields/audit-reports/blob/master/SPE_Smart_Contract_Final_Audit_Report.pdf)         |
 | 👌  | Solidity/EVM | Credshields | [Lara Protocol ](https://github.com/Credshields/audit-reports/blob/master/Lara_Liquid_Staking_Final_Audit_Report.pdf)           |
 | 👌  | Solidity/EVM | Credshields | [Protop Vesting ](https://github.com/Credshields/audit-reports/blob/master/Protop_Vesting_Contracts_Final_Report.pdf)           |
 | 👌  | Solidity/EVM | Credshields | [Vouch ](https://github.com/Credshields/audit-reports/blob/master/Vouch_Contract_Final_Audit_Report.pdf)                        |
