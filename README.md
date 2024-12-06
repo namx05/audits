@@ -14,7 +14,7 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 ## Contests
 
-|     | Tech         | Frim      | Rank | Report                                                     | Critical/High | Medium |
+|     | Tech         | Firm      | Rank | Report                                                     | Critical/High | Medium |
 | --- | ------------ | --------- | ---- | ---------------------------------------------------------- | ------------- | ------ |
 |     |              |           |      |                                                            |               |        |
 | 💎  | Solidity/EVM | CodeHawks | 177  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/s/679) | 1             |        |
