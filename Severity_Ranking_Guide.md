@@ -6,16 +6,17 @@
 <br>
 
 ## Table of contents:
+
 - [Severity Ranking Guide](#severity-ranking-guide)
   - [Table of contents:](#table-of-contents)
 - [Pashov's Severity Ranking System](#pashovs-severity-ranking-system)
-- [Critical](#critical)
+  - [Critical](#critical)
     - [Difference Between High \& Medium](#difference-between-high--medium)
-- [High](#high)
+  - [High](#high)
     - [Difference Between High \& Medium](#difference-between-high--medium-1)
-- [Medium](#medium)
+  - [Medium](#medium)
     - [Difference between Medium \& Low](#difference-between-medium--low)
-- [Low](#low)
+  - [Low](#low)
 
 <br>
 
@@ -29,7 +30,7 @@
 
 <br>
 
-# Critical
+## Critical
 
 - You know a critical when you see one 😀
 - Anything that a malicious actors can pull off to successfully take a nontrivial amount of value (20%+) out of the protocol
@@ -51,7 +52,7 @@
 
 <br>
 
-# High
+## High
 
 - Attacks that are not straightforward, might be somewhat unlikely but have large consequences.
 - more impact and more likelihood than medium findings, however not a guaranteed protocol ending hack
@@ -74,7 +75,7 @@
 
 <br>
 
-# Medium
+## Medium
 
 - No significant impact, however not trivial impact.
   - A few $ effect on a user or the protocol
@@ -93,7 +94,7 @@
 
 <br>
 
-# Low
+## Low
 
 - Owen Thrum always thought that It’s best to combine gas optimization, QA, and best practices into low findings.
   - If you want to systemize auditing to the greatest extent possible, having less buckets and less complexity will help.
