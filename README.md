@@ -7,7 +7,7 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
   - [Sherlock](https://audits.sherlock.xyz/watson/namx05) (other public audit contests stats included :D)
   - [Cantina](https://cantina.xyz/u/namx05)
 
-- Credshields (Auditor): January, 2024 - onwards
+- Credshields (Security Researcher): January, 2024 - onwards
 
 <br>
 
@@ -17,13 +17,13 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 ## Contests
 
-|     | Rank | Report                                                                                                  | Critical/High | Medium | Tech         | Firm      |
-| --- | ---- | ------------------------------------------------------------------------------------------------------- | ------------- | ------ | ------------ | --------- |
-|     |      |                                                                                                         |               |        |              |           |
-| 👌  | 16   | Cantina: [Hyperland](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard) | 1             | -      | Solidity/EVM | Cantina   |
-| 💎  | 177  | Codehawks: [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/s/679)                                   | 1             | -      | Solidity/EVM | CodeHawks |
-| 💎  | 39   | Codehawks: [Trait Forge](solo/C4/TraitForge_July24.md)                                                  | 1             | -      | Solidity/EVM | CodeArena |
-| 📰  | 89   | Code4rena :[Pool Together](solo/C4/PoolTogether_July23.md)                                              | -             | 1      | Solidity/EVM | CodeArena |
+|     | Rank | Report                                                                                         | Critical/High | Medium | Tech         | Firm      |
+| --- | ---- | ---------------------------------------------------------------------------------------------- | ------------- | ------ | ------------ | --------- |
+|     |      |                                                                                                |               |        |              |           |
+| 👌  | 16   | [Hyperland](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard) | 1             | -      | Solidity/EVM | Cantina   |
+| 💎  | 177  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/s/679)                                     | 1             | -      | Solidity/EVM | CodeHawks |
+| 💎  | 39   | [Trait Forge](solo/C4/TraitForge_July24.md)                                                    | 1             | -      | Solidity/EVM | CodeArena |
+| 📰  | 89   | [Pool Together](solo/C4/PoolTogether_July23.md)                                                | -             | 1      | Solidity/EVM | CodeArena |
 
 <br>
 
