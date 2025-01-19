@@ -35,6 +35,7 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 |     | Report                                                                                                                         | Tech           | Firm        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------ | -------------- | ----------- |
 |     |                                                                                                                                |                |             |
+| 💎  | [Metaco Intelligence Corporation](https://github.com/Credshields/audit-reports/blob/master/Zoth_Final_Audit_Report.pdf)        | ♦ Solidity/EVM | Credshields |
 | 📰  | [ResearchHub](https://github.com/Credshields/audit-reports/blob/master/ResearchHub_SmartContract_Final_Audit_Report.pdf)       | ♦ Solidity/EVM | Credshields |
 | 📰  | [HoldPlatform V2](https://github.com/Credshields/audit-reports/blob/master/HoldPlatform_Final_Audit_Report.pdf)                | ♦ Solidity/EVM | Credshields |
 | 💎  | [Save Planet Earth](https://github.com/Credshields/audit-reports/blob/master/SPE_Smart_Contract_Final_Audit_Report.pdf)        | ♦ Solidity/EVM | Credshields |
