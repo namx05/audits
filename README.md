@@ -38,6 +38,7 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- |
 |             |                                                                                                                                                   |                |             |
 | <b>2025</b> |                                                                                                                                                   |                |             |
+| 👌          | [BRLA Digital LTDA](https://github.com/Credshields/audit-reports/blob/master/BRLA_Final_Audit_Report.pdf)                                         | ♦ Solidity/EVM | Credshields |
 | 💎          | [Metaco Intelligence Corporation](https://github.com/Credshields/audit-reports/blob/master/Zoth_Final_Audit_Report.pdf)                           | ♦ Solidity/EVM | Credshields |
 | 📰          | [AllinGames: Andar Bahar](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Andar_Bahar_Final_Audit_Report.pdf)                 | 🦀 CosmWasm    | Credshields |
 | 👌          | [AllinGames: bacarrat](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Baccarat_Final_Audit_Report.pdf)                       | 🦀 CosmWasm    | Credshields |
