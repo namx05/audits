@@ -14,7 +14,7 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 > The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰. <br>
 > Very least interesting reports can be found [here](/least_interesting_reports/README.md)
 
-## Contests Audits
+# Contests Audits
 
 | ID  |             | Rank | Report                                                                                                           | Critical/High | Medium | Lang-Ecosystem | Platform  |
 | --- | ----------- | ---- | ---------------------------------------------------------------------------------------------------------------- | ------------- | ------ | -------------- | --------- |
@@ -34,7 +34,7 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 > [!IMPORTANT]
 > 80% for my firm audits are on collaborative basis (with team)
 
-## CredShields Audits
+# CredShields Audits
 
 | ID  |             | Report                                                                                                                                            | Lang-Ecosystem   | Firm        |
 | --- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------- |
@@ -74,8 +74,6 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 | 2   | 💎          | [Wasset](https://github.com/Credshields/audit-reports/blob/master/Wasset_Final_Audit_Report.pdf)                                                  | ♦ Solidity-EVM   | Credshields |
 | 1   | 👌          | [Numa](https://github.com/Credshields/audit-reports/blob/master/Numa_Final_Audit_Report.pdf)                                                      | ♦ Solidity-EVM   | Credshields |
 
-## Report Template
+# Report Template
 
-> [Report Template](Report_Template.md) is forked form [Spearbit-Audits](https://github.com/spearbit-audits/report-template/blob/main/report.md)
-
-<br>
+> [Report Template](Report_Template.md)
