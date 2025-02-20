@@ -12,7 +12,7 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 > [!TIP]
 > The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰. <br>
-> Very least interesting reports can be found [here](/least_interesting_reports/README.md)
+> Very least interesting reports can be found [here](/least_interesting_reports.md)
 
 # Contests Audits
 
@@ -76,4 +76,4 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 # Report Template
 
-> [Report Template](Report_Template.md)
+> [Report Template](report_template.md) is forked form [Spearbit-Audits](https://github.com/spearbit-audits/report-template/blob/main/report.md)
