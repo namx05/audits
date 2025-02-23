@@ -43,6 +43,8 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 | 31  | 👌          | [W3.Labs](https://github.com/Credshields/audit-reports/blob/master/W3.labs_Final_Audit_Report.pdf)                                                | ♦ Solidity-EVM   | Credshields |
 | 30  | 👌          | [BRLA Digital LTDA](https://github.com/Credshields/audit-reports/blob/master/BRLA_Final_Audit_Report.pdf)                                         | ♦ Solidity-EVM   | Credshields |
 | 29  | 💎          | [Metaco Intelligence Corporation](https://github.com/Credshields/audit-reports/blob/master/Zoth_Final_Audit_Report.pdf)                           | ♦ Solidity-EVM   | Credshields |
+|     | <br>        |
+|     | <b>2024</b> |
 | 28  | 📰          | [AllinGames: Andar Bahar](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Andar_Bahar_Final_Audit_Report.pdf)                 | 🦀 Rust-CosmWasm | Credshields |
 | 27  | 👌          | [AllinGames: bacarrat](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Baccarat_Final_Audit_Report.pdf)                       | 🦀 Rust-CosmWasm | Credshields |
 | 26  | 💎 💎       | [AllinGames: bank](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Bank_Final_Audit_Report.pdf)                               | 🦀 Rust-CosmWasm | Credshields |
@@ -55,8 +57,6 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 | 19  | 📰          | [AllinGames: roulette](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Roulette_Final_Audit_Report.pdf)                       | 🦀 Rust-CosmWasm | Credshields |
 | 18  | 📰          | [AllinGames: seven up seven down](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Seven_Up_Seven_Down_Final_Audit_Report.pdf) | 🦀 Rust-CosmWasm | Credshields |
 | 17  | 📰          | [AllinGames: slot](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Slots_Final_Audit_Report.pdf)                              | 🦀 Rust-CosmWasm | Credshields |
-|     | <br>        |
-|     | <b>2024</b> |
 | 16  | 📰          | [ResearchHub](https://github.com/Credshields/audit-reports/blob/master/ResearchHub_SmartContract_Final_Audit_Report.pdf)                          | ♦ Solidity-EVM   | Credshields |
 | 15  | 📰          | [HoldPlatform V2](https://github.com/Credshields/audit-reports/blob/master/HoldPlatform_Final_Audit_Report.pdf)                                   | ♦ Solidity-EVM   | Credshields |
 | 14  | 💎          | [Save Planet Earth](https://github.com/Credshields/audit-reports/blob/master/SPE_Smart_Contract_Final_Audit_Report.pdf)                           | ♦ Solidity-EVM   | Credshields |
