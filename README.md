@@ -2,22 +2,6 @@
 
 Listed below are the Smart Contract audits I’ve conducted since starting in Web3 security. Each entry includes the publishing firm and a link to the public report.
 
-- Audit Contests (Freelancing): June, 2023 - onwards
-
-  - [Sherlock](https://audits.sherlock.xyz/watson/namx05) (All the public audit contests are stats included :D)
-
-- Credshields (Security Researcher): January, 2024 - onwards
-- Private Audits (Freelancing): January, 2024 - onwards
-
-<br>
-
-TOB:
-
-- [Priavte-Audits](#priavte-audits)
-- [Contests Audits](#contests-audits)
-- [CredShields Audits](#credshields-audits)
-- [Report Template](#report-template)
-
 > [!TIP]
 > The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰. <br>
 > Very least interesting reports can be found [here](/least_interesting_reports.md)
@@ -35,7 +19,9 @@ TOB:
 
 <br>
 
-# Contests Audits
+# Contests Audits:
+
+[`Sherlock portfolio`](https://audits.sherlock.xyz/watson/namx05)
 
 | ID  |             | Rank | Report                                                                                                           | Critical/High | Medium | Lang-Ecosystem | Platform  |
 | --- | ----------- | ---- | ---------------------------------------------------------------------------------------------------------------- | ------------- | ------ | -------------- | --------- |
