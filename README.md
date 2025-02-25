@@ -14,6 +14,17 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 > The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰. <br>
 > Very least interesting reports can be found [here](/least_interesting_reports.md)
 
+# Priavte Audits
+
+| ID  |             | Report                                     | Critical/High | Medium | Lang-Ecosystem | Auditors-Involved |
+| --- | ----------- | ------------------------------------------ | ------------- | ------ | -------------- | ----------------- |
+|     | <br>        |
+|     | <b>2025</b> |                                            |               |        |                |                   |
+| 2   |             | Coming soon                                | 1             | 2      | ♦ Solidity-EVM | Solo              |
+|     | <br>        |
+|     | <b>2024</b> |                                            |               |        |                |                   |
+| 1   |             | [Hyacinth](md/Hyacinth-security-review.md) | 2             | 2      | ♦ Solidity-EVM | Solo              |
+
 # Contests Audits
 
 | ID  |             | Rank | Report                                                                                                           | Critical/High | Medium | Lang-Ecosystem | Platform  |
