@@ -12,10 +12,10 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 | --- | ----------- | ------------------------------------------ | ------------- | ------ | -------------- | ----------------- |
 |     | <br>        |
 |     | <b>2025</b> |                                            |               |        |                |                   |
-| 2   |             | Coming soon                                | 1             | 2      | ♦ Solidity-EVM | Solo              |
+| 2   | 👌          | Coming soon                                | 1             | 2      | ♦ Solidity-EVM | Solo              |
 |     | <br>        |
 |     | <b>2024</b> |                                            |               |        |                |                   |
-| 1   |             | [Hyacinth](md/Hyacinth-security-review.md) | 2             | 2      | ♦ Solidity-EVM | Solo              |
+| 1   | 👌          | [Hyacinth](md/Hyacinth-security-review.md) | 2             | 2      | ♦ Solidity-EVM | Solo              |
 
 <br>
 
