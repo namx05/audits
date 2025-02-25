@@ -1,4 +1,4 @@
-# Smart Contract Audit and Finding Reports by nax.eth
+<h1> Smart Contract Audit and Finding Reports by Naman Jain</h1>
 
 Listed below are the Smart Contract audits I’ve conducted since starting in Web3 security. Each entry includes the publishing firm and a link to the public report.
 
@@ -7,14 +7,22 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
   - [Sherlock](https://audits.sherlock.xyz/watson/namx05) (All the public audit contests are stats included :D)
 
 - Credshields (Security Researcher): January, 2024 - onwards
+- Private Audits (Freelancing): January, 2024 - onwards
 
 <br>
+
+TOB:
+
+- [Priavte-Audits](#priavte-audits)
+- [Contests Audits](#contests-audits)
+- [CredShields Audits](#credshields-audits)
+- [Report Template](#report-template)
 
 > [!TIP]
 > The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰. <br>
 > Very least interesting reports can be found [here](/least_interesting_reports.md)
 
-# Priavte Audits
+# Priavte-Audits
 
 | ID  |             | Report                                     | Critical/High | Medium | Lang-Ecosystem | Auditors-Involved |
 | --- | ----------- | ------------------------------------------ | ------------- | ------ | -------------- | ----------------- |
@@ -24,6 +32,8 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 |     | <br>        |
 |     | <b>2024</b> |                                            |               |        |                |                   |
 | 1   |             | [Hyacinth](md/Hyacinth-security-review.md) | 2             | 2      | ♦ Solidity-EVM | Solo              |
+
+<br>
 
 # Contests Audits
 
