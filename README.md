@@ -8,14 +8,14 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 # Priavte-Audits
 
-| ID  |             | Report                                     | Critical/High | Medium | Lang-Ecosystem | Auditors-Involved |
-| --- | ----------- | ------------------------------------------ | ------------- | ------ | -------------- | ----------------- |
+| ID  |             | Report                                          | Critical/High | Medium | Lang-Ecosystem | Auditors-Involved |
+| --- | ----------- | ----------------------------------------------- | ------------- | ------ | -------------- | ----------------- |
+|     |             |                                                 |               |        |                |                   |
+|     | <b>2025</b> |                                                 |               |        |                |                   |
+| 2   | 👌          | Coming soon                                     | 1             | 2      | ♦ Solidity-EVM | Solo              |
 |     | <br>        |
-|     | <b>2025</b> |                                            |               |        |                |                   |
-| 2   | 👌          | Coming soon                                | 1             | 2      | ♦ Solidity-EVM | Solo              |
-|     | <br>        |
-|     | <b>2024</b> |                                            |               |        |                |                   |
-| 1   | 👌          | [Hyacinth](md/Hyacinth-security-review.md) | 2             | 2      | ♦ Solidity-EVM | Solo              |
+|     | <b>2024</b> |                                                 |               |        |                |                   |
+| 1   | 👌          | [Hyacinth](solo/md/Hyacinth-security-review.md) | 2             | 2      | ♦ Solidity-EVM | Solo              |
 
 <br>
 
@@ -26,8 +26,8 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 | ID  |             | Rank | Report                                                                                                           | Critical/High | Medium | Lang-Ecosystem | Platform  |
 | --- | ----------- | ---- | ---------------------------------------------------------------------------------------------------------------- | ------------- | ------ | -------------- | --------- |
 |     |             |      |                                                                                                                  |               |        |                |           |
-| 4   | <b>2025</b> |
-|     | 👌          | 16   | [Hyperland](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)                   | 1             | -      | ♦ Solidity-EVM | Cantina   |
+|     | <b>2025</b> |
+| 4   | 👌          | 16   | [Hyperland](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)                   | 1             | -      | ♦ Solidity-EVM | Cantina   |
 |     | <br>        |
 |     | <b>2024</b> |
 | 3   | 💎          | 177  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) | 1             | -      | ♦ Solidity-EVM | CodeHawks |
