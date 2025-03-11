@@ -8,11 +8,11 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 # Priavte-Audits
 
-| ID  |     | Report                                          | Description      | Critical/High | Medium | Lang-Ecosystem | Auditors-Involved |
-| --- | --- | ----------------------------------------------- | ---------------- | ------------- | ------ | -------------- | ----------------- |
-|     |     |                                                 |                  |               |        |                |                   |
-| 2   | 👌  | Coming soon                                     | Staking, Vesting | 2             | 1      | ♦ Solidity-EVM | Solo              |
-| 1   | 👌  | [Hyacinth](solo/md/Hyacinth-security-review.md) |                  | 2             | 2      | ♦ Solidity-EVM | Solo              |
+|     | Report                                          | Description      | Critical/High | Medium | Lang-Ecosystem | Auditors-Involved |
+| --- | ----------------------------------------------- | ---------------- | ------------- | ------ | -------------- | ----------------- |
+|     |                                                 |                  |               |        |                |                   |
+| 👌  | Coming soon                                     | Staking, Vesting | 2             | 1      | ♦ Solidity-EVM | Solo              |
+| 👌  | [Hyacinth](solo/md/Hyacinth-security-review.md) |                  | 2             | 2      | ♦ Solidity-EVM | Solo              |
 
 <br>
 
