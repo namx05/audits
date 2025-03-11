@@ -8,11 +8,12 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 # Priavte-Audits
 
-|     | Report                                          | Description      | Critical/High | Medium | Lang-Ecosystem | Auditors-Involved |
-| --- | ----------------------------------------------- | ---------------- | ------------- | ------ | -------------- | ----------------- |
-|     |                                                 |                  |               |        |                |                   |
-| 👌  | Coming soon                                     | Staking, Vesting | 2             | 1      | ♦ Solidity-EVM | Solo              |
-| 👌  | [Hyacinth](solo/md/Hyacinth-security-review.md) |                  | 2             | 2      | ♦ Solidity-EVM | Solo              |
+|     | Report                                             | Description              | Critical/High | Medium | Lang-Ecosystem | Solo/Colloboration        |
+| --- | -------------------------------------------------- | ------------------------ | ------------- | ------ | -------------- | ------------------------- |
+|     |                                                    |                          |               |        |                |                           |
+| 👌  | Coming soon                                        | Staking, Vesting         | 2             | 1      | ♦ Solidity-EVM | Solo                      |
+| 👌  | [After Finance](team/pdf/After-Finance-Report.pdf) | Lending/Borrowing, Yeild | -             | 1      | ♦ Solidity-EVM | Arsen Blockchain Security |
+| 👌  | [Hyacinth](solo/md/Hyacinth-security-review.md)    |                          | 2             | 2      | ♦ Solidity-EVM | Solo                      |
 
 <br>
 
@@ -20,13 +21,13 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 [`Sherlock portfolio`](https://audits.sherlock.xyz/watson/namx05)
 
-|     | Rank | Report                                                                                                           | Description            | Critical/High | Medium | Lang-Ecosystem | Platform  |
-| --- | ---- | ---------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------- | ------ | -------------- | --------- |
-|     |      |                                                                                                                  |                        |               |        |                |           |
-| 👌  | 16   | [Hyperland](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)                   | Lending                | 1             | -      | ♦ Solidity-EVM | Cantina   |
-| 💎  | 177  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) | Bridge                 | -             | 1      | ♦ Solidity-EVM | CodeHawks |
-| 💎  | 39   | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge)                                                   | GameFi                 | 1             | -      | ♦ Solidity-EVM | CodeArena |
-| 📰  | 89   | [Pool Together](https://code4rena.com/audits/2023-07-pooltogether)                                               | Staking, Yeild Farming | -             | 1      | ♦ Solidity-EVM | CodeArena |
+|     | Rank | Report                                                                                                           | Description    | Critical/High | Medium | Lang-Ecosystem | Platform  |
+| --- | ---- | ---------------------------------------------------------------------------------------------------------------- | -------------- | ------------- | ------ | -------------- | --------- |
+|     |      |                                                                                                                  |                |               |        |                |           |
+| 👌  | 16   | [Hyperland](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)                   | Lending        | 1             | -      | ♦ Solidity-EVM | Cantina   |
+| 💎  | 177  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) | Bridge         | -             | 1      | ♦ Solidity-EVM | CodeHawks |
+| 💎  | 39   | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge)                                                   | GameFi         | 1             | -      | ♦ Solidity-EVM | CodeArena |
+| 📰  | 89   | [Pool Together](https://code4rena.com/audits/2023-07-pooltogether)                                               | Staking, Yeild | -             | 1      | ♦ Solidity-EVM | CodeArena |
 
 <br>
 
@@ -41,7 +42,7 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 |     | <b>2025</b> |
 | 31  | 👌          | [W3.Labs](https://github.com/Credshields/audit-reports/blob/master/W3.labs_Final_Audit_Report.pdf)                                                |               | ♦ Solidity-EVM   | Credshields |
 | 30  | 👌          | [BRLA Digital LTDA](https://github.com/Credshields/audit-reports/blob/master/BRLA_Final_Audit_Report.pdf)                                         |               | ♦ Solidity-EVM   | Credshields |
-| 29  | 💎          | [Metaco Intelligence Corporation](https://github.com/Credshields/audit-reports/blob/master/Zoth_Final_Audit_Report.pdf)                           |               | ♦ Solidity-EVM   | Credshields |
+| 29  | 💎          | [Metaco Intelligence Corporation](https://github.com/Credshields/audit-reports/blob/master/Zoth_Final_Audit_Report.pdf)                           | Restaking     | ♦ Solidity-EVM   | Credshields |
 |     | <br>        |
 |     | <b>2024</b> |
 | 28  | 📰          | [AllinGames: Andar Bahar](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Andar_Bahar_Final_Audit_Report.pdf)                 | GameFi/Casino | 🦀 Rust-CosmWasm | Credshields |
