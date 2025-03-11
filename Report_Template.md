@@ -14,38 +14,26 @@
 
 # Findings
 
-## Critical Risk
+## Title
 
-## High Risk
+**Severity**
 
-### Issue title (Only first word should be capitalized; titles should never end with punctuation)
+{{Severity}} Risk
 
-**Severity:** High
+**Description**
 
-**Context:** [`Contract.sol#L160-L165`](https://github.com/actuallink)
-
-**Description:**
-
-**Code Snippet**
+**Location of Affected Code**
 
 ```solidity
-contract Test {
-    ...
-    // Code blocks must be indented with 4 spaces.
-}
+
 ```
 
-**Impact**:
+**Impact**
 
-**Recommendation:**
+**Proof of Concept**
 
-```diff
-+ use diff syntax to describe what should be changed
-- ...
-```
+**Recommendation**
 
-## Medium Risk
+**Team Response**
 
-## Low Risk
-
-## Gas Optimizations
+N/A
