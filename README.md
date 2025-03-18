@@ -4,7 +4,7 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 > [!TIP]
 > The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰. <br>
-> Very least interesting reports can be found [here](/least_interesting_reports.md)
+> Very least interesting reports can be found [here](audit-reports/Least_interesting_reports.md)
 
 <br>
 
@@ -27,11 +27,12 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 # Private Audits
 
-|             | Report                                                                                                                                            | Description              | Lang-Ecosystem   | Firm                      |
+|             | Report                                                                                                                                            | Description              | Lang-Ecosystem   | Colloboration             |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ---------------- | ------------------------- |
 |             |
 | <b>2025</b> |
-| 👌          | Coming soon                                                                                                                                       | Staking, Vesting         | ♦ Solidity-EVM   | naman                     |
+| 📰          | [Stax](audit-reports/md/Stax-Security-Review.md)                                                                                                  | Staking, Token swapping  | ♦ Solidity-EVM   | Shieldify Security        |
+| 👌          | Coming soon                                                                                                                                       | Staking, Vesting         | ♦ Solidity-EVM   | Solo                      |
 | 👌          | [W3.Labs](https://github.com/Credshields/audit-reports/blob/master/W3.labs_Final_Audit_Report.pdf)                                                |                          | ♦ Solidity-EVM   | Credshields               |
 | 👌          | [After Finance](audit-reports/pdf/After-Finance-Report.pdf)                                                                                       | Lending/Borrowing, Yeild | ♦ Solidity-EVM   | Arsen Blockchain Security |
 | 👌          | [BRLA Digital LTDA](https://github.com/Credshields/audit-reports/blob/master/BRLA_Final_Audit_Report.pdf)                                         |                          | ♦ Solidity-EVM   | Credshields               |
@@ -70,4 +71,4 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 # Report Template
 
-> [Report Template](report_template.md) is forked form [Spearbit-Audits](https://github.com/spearbit-audits/report-template/blob/main/report.md)
+> [Report Template](audit-reports/report_template.md)
