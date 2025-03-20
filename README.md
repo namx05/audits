@@ -1,4 +1,4 @@
-<h1> Smart Contract Audit and Finding Reports by Naman Jain</h1>
+# Smart Contract Audit and Finding Reports by Naman Jain
 
 Listed below are the Smart Contract audits I’ve conducted since starting in Web3 security. Each entry includes the publishing firm and a link to the public report.
 
@@ -10,7 +10,7 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 # Contests Audits:
 
-[`Sherlock portfolio`](https://audits.sherlock.xyz/watson/namx05)
+Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx05)
 
 |     | Rank | Report                                                                                                           | Description    | Critical/High | Medium | Lang-Ecosystem | Platform  |
 | --- | ---- | ---------------------------------------------------------------------------------------------------------------- | -------------- | ------------- | ------ | -------------- | --------- |
@@ -27,47 +27,48 @@ Listed below are the Smart Contract audits I’ve conducted since starting in We
 
 # Private Audits
 
-|             | Report                                                                                                                                            | Description              | Lang-Ecosystem   | Colloboration             |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ---------------- | ------------------------- |
+|             | Report                                                                                                     | Description              | Lang-Ecosystem    | Collaboration             |
+| ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- |
 |             |
 | <b>2025</b> |
-| 📰          | [Stax](audit-reports/md/Stax-Security-Review.md)                                                                                                  | Staking, Token swapping  | ♦ Solidity-EVM   | Shieldify Security        |
-| 👌          | Coming soon                                                                                                                                       | Staking, Vesting         | ♦ Solidity-EVM   | Solo                      |
-| 👌          | [W3.Labs](https://github.com/Credshields/audit-reports/blob/master/W3.labs_Final_Audit_Report.pdf)                                                |                          | ♦ Solidity-EVM   | Credshields               |
-| 👌          | [After Finance](audit-reports/pdf/After-Finance-Report.pdf)                                                                                       | Lending/Borrowing, Yeild | ♦ Solidity-EVM   | Arsen Blockchain Security |
-| 👌          | [BRLA Digital LTDA](https://github.com/Credshields/audit-reports/blob/master/BRLA_Final_Audit_Report.pdf)                                         |                          | ♦ Solidity-EVM   | Credshields               |
-| 💎          | [Metaco Intelligence Corporation](https://github.com/Credshields/audit-reports/blob/master/Zoth_Final_Audit_Report.pdf)                           | Restaking                | ♦ Solidity-EVM   | Credshields               |
+| 📰          | [Stax](audit-reports/md/Stax-Security-Review.md)                                                           | DeFi, Staking            | ♦ Solidity-EVM    | Shieldify Security        |
+| 👌          | Coming soon                                                                                                | Defi, Staking, Vesting   | ♦ Solidity-EVM    | Solo                      |
+| 👌          | [W3.Labs](audit-reports/pdf/W3.labs_Final_Audit_Report.pdf)                                                |                          | ♦ Solidity-EVM    | Credshields               |
+| 👌          | [After Finance](audit-reports/pdf/After-Finance-Report.pdf)                                                | Lending/Borrowing, Yeild | ♦ Solidity-EVM    | Arsen Blockchain Security |
+| 👌          | [BRLA Digital](audit-reports/pdf/BRLA_Final_Audit_Report.pdf)                                              |                          | ♦ Solidity-EVM    | Credshields               |
+| 💎          | [Metaco Intelligence Corporation](audit-reports/pdf/Zoth_Final_Audit_Report.pdf)                           | Restaking                | ♦ Solidity-EVM    | Credshields               |
 | <br>        |
 | <b>2024</b> |
-| 📰          | [AllinGames: Andar Bahar](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Andar_Bahar_Final_Audit_Report.pdf)                 | GameFi/Casino            | 🦀 Rust-CosmWasm | Credshields               |
-| 👌          | [AllinGames: bacarrat](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Baccarat_Final_Audit_Report.pdf)                       | GameFi/Casino            | 🦀 Rust-CosmWasm | Credshields               |
-| 💎 💎       | [AllinGames: bank](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Bank_Final_Audit_Report.pdf)                               | GameFi/Casino            | 🦀 Rust-CosmWasm | Credshields               |
-| 💎          | [AllinGames: Classic Dice](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Classic_Dice_Final_Audit_Report.pdf)               | GameFi/Casino            | 🦀 Rust-CosmWasm | Credshields               |
-| 💎          | [AllinGames: Coin Flip](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Coin_Flip_Final_Audit_Report.pdf)                     | GameFi/Casino            | 🦀 Rust-CosmWasm | Credshields               |
-| 📰          | [AllinGames: dragon tiger](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Dragon_Tiger_Final_Audit_Report.pdf)               | GameFi/Casino            | 🦀 Rust-CosmWasm | Credshields               |
-| 💎          | [AllinGames: hash dice](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Hash_Dice_Final_Audit_Report.pdf)                     | GameFi/Casino            | 🦀 Rust-CosmWasm | Credshields               |
-| 👌          | [AllinGames: limbo](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Limbo_Final_Audit_Report.pdf)                             | GameFi/Casino            | 🦀 Rust-CosmWasm | Credshields               |
-| 💎          | [AllinGames: lottery](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Lottery_Final_Audit_Report.pdf)                         | GameFi/Casino            | 🦀 Rust-CosmWasm | Credshields               |
-| 📰          | [AllinGames: roulette](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Roulette_Final_Audit_Report.pdf)                       | GameFi/Casino            | 🦀 Rust-CosmWasm | Credshields               |
-| 📰          | [AllinGames: seven up seven down](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Seven_Up_Seven_Down_Final_Audit_Report.pdf) | GameFi/Casino            | 🦀 Rust-CosmWasm | Credshields               |
-| 📰          | [AllinGames: slot](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Slots_Final_Audit_Report.pdf)                              | GameFi/Casino            | 🦀 Rust-CosmWasm | Credshields               |
-| 📰          | [ResearchHub](https://github.com/Credshields/audit-reports/blob/master/ResearchHub_SmartContract_Final_Audit_Report.pdf)                          |                          | ♦ Solidity-EVM   | Credshields               |
-| 📰          | [HoldPlatform V2](https://github.com/Credshields/audit-reports/blob/master/HoldPlatform_Final_Audit_Report.pdf)                                   |                          | ♦ Solidity-EVM   | Credshields               |
-| 💎          | [Save Planet Earth](https://github.com/Credshields/audit-reports/blob/master/SPE_Smart_Contract_Final_Audit_Report.pdf)                           |                          | ♦ Solidity-EVM   | Credshields               |
-| 👌          | [Lara Protocol](https://github.com/Credshields/audit-reports/blob/master/Lara_Liquid_Staking_Final_Audit_Report.pdf)                              |                          | ♦ Solidity-EVM   | Credshields               |
-| 👌          | [Protop Vesting](https://github.com/Credshields/audit-reports/blob/master/Protop_Vesting_Contracts_Final_Report.pdf)                              |                          | ♦ Solidity-EVM   | Credshields               |
-| 👌          | [Vouch](https://github.com/Credshields/audit-reports/blob/master/Vouch_Contract_Final_Audit_Report.pdf)                                           |                          | ♦ Solidity-EVM   | Credshields               |
-| 👌          | [SAN](https://github.com/Credshields/audit-reports/blob/master/SAN_Final_Report.pdf)                                                              |                          | ♦ Solidity-EVM   | Credshields               |
-| 👌          | [Tribally Games](https://github.com/Credshields/audit-reports/blob/master/Tribally_Games_Final_Report.pdf)                                        |                          | ♦ Solidity-EVM   | Credshields               |
-| 💎          | [Plutope](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)                                                |                          | ♦ Solidity-EVM   | Credshields               |
-| 💎          | [LogX](https://github.com/Credshields/audit-reports/blob/4d34781e41a23c270314fac5aced61fc24370f4c/LogX_Token_Final_Report.pdf)                    |                          | ♦ Solidity-EVM   | Credshields               |
-| 👌          | [Kresus](https://github.com/Credshields/audit-reports/blob/master/Kresus_Final_Audit_Report.pdf)                                                  |                          | ♦ Solidity-EVM   | Credshields               |
-| 💎          | [Rex Protocol](https://github.com/Credshields/audit-reports/blob/master/Rex_Exchange_Final_Audit_Report.pdf)                                      |                          | ♦ Solidity-EVM   | Credshields               |
-| 💎          | [aUSD: Stable Jack](https://github.com/Credshields/audit-reports/blob/master/aUSD_SC_Final_Audit_Report.pdf)                                      |                          | ♦ Solidity-EVM   | Credshields               |
-| 👌          | [Arcana Staking](https://github.com/Credshields/audit-reports/blob/master/Arcana_Staking_Contract_Final_Audit_Report.pdf)                         |                          | ♦ Solidity-EVM   | Credshields               |
-| 💎          | [Wasset](https://github.com/Credshields/audit-reports/blob/master/Wasset_Final_Audit_Report.pdf)                                                  |                          | ♦ Solidity-EVM   | Credshields               |
-| 👌          | [Numa](https://github.com/Credshields/audit-reports/blob/master/Numa_Final_Audit_Report.pdf)                                                      |                          | ♦ Solidity-EVM   | Credshields               |
-| 👌          | [Hyacinth](audit-reports/md/Hyacinth-security-review.md)                                                                                          |                          | ♦ Solidity-EVM   | naman                     |
+| 📰          | [AllinGames: Andar Bahar](audit-reports/pdf/AllInGames_Andar_Bahar_Final_Audit_Report.pdf)                 | GameFi                   | 🦀 Rust-CosmWasm  | Credshields               |
+| 👌          | [AllinGames: Bacarrat](audit-reports/pdf/AllInGames_Baccarat_Final_Audit_Report.pdf)                       | GameFi                   | 🦀 Rust-CosmWasm  | Credshields               |
+| 💎 💎       | [AllinGames: Bank](audit-reports/pdf/AllInGames_Bank_Final_Audit_Report.pdf)                               | GameFi                   | 🦀 Rust-CosmWasm  | Credshields               |
+| 💎          | [AllinGames: Classic](audit-reports/pdf/AllInGames_Classic_Dice_Final_Audit_Report.pdf)                    | GameFi                   | 🦀 Rust-CosmWasm  | Credshields               |
+| 💎          | [AllinGames: Coin Flip](audit-reports/pdf/AllInGames_Coin_Flip_Final_Audit_Report.pdf)                     | GameFi                   | 🦀 Rust-CosmWasm  | Credshields               |
+| 📰          | [AllinGames: Dragon Tiger](audit-reports/pdf/AllInGames_Dragon_Tiger_Final_Audit_Report.pdf)               | GameFi                   | 🦀 Rust-CosmWasm  | Credshields               |
+| 💎          | [AllinGames: Hash Dice](audit-reports/pdf/AllInGames_Hash_Dice_Final_Audit_Report.pdf)                     | GameFi                   | 🦀 Rust-CosmWasm  | Credshields               |
+| 👌          | [AllinGames: Limbo](audit-reports/pdf/AllInGames_Limbo_Final_Audit_Report.pdf)                             | GameFi                   | 🦀 Rust-CosmWasm  | Credshields               |
+| 💎          | [AllinGames: Lottery](audit-reports/pdf/AllInGames_Lottery_Final_Audit_Report.pdf)                         | GameFi                   | 🦀 Rust-CosmWasm  | Credshields               |
+| 📰          | [AllinGames: Roulette](audit-reports/pdf/AllInGames_Roulette_Final_Audit_Report.pdf)                       | GameFi                   | 🦀 Rust-CosmWasm  | Credshields               |
+| 📰          | [AllinGames: Seven Up Seven Down](audit-reports/pdf/AllInGames_Seven_Up_Seven_Down_Final_Audit_Report.pdf) | GameFi                   | 🦀 Rust-CosmWasm  | Credshields               |
+| 📰          | [AllinGames: Slot](audit-reports/pdf/AllInGames_Slots_Final_Audit_Report.pdf)                              | GameFi                   | 🦀 Rust-CosmWasm  | Credshields               |
+| 👌          | [Arcana: Browser Extenstion](audit-reports/pdf/Arcana_Wallet_Final_Audit_Report.pdf)                       | Wallet                   | Bowser Extenstion | Credshields               |
+| 📰          | [ResearchHub](audit-reports/pdf/ResearchHub_SmartContract_Final_Audit_Report.pdf)                          |                          | ♦ Solidity-EVM    | Credshields               |
+| 📰          | [HoldPlatform V2](audit-reports/pdf/HoldPlatform_Final_Audit_Report.pdf)                                   |                          | ♦ Solidity-EVM    | Credshields               |
+| 💎          | [Save Planet Earth](audit-reports/pdf/SPE_Smart_Contract_Final_Audit_Report.pdf)                           |                          | ♦ Solidity-EVM    | Credshields               |
+| 👌          | [Lara Protocol](audit-reports/pdf/Lara_Liquid_Staking_Final_Audit_Report.pdf)                              |                          | ♦ Solidity-EVM    | Credshields               |
+| 👌          | [Protop Vesting](audit-reports/pdf/Protop_Vesting_Contracts_Final_Report.pdf)                              |                          | ♦ Solidity-EVM    | Credshields               |
+| 👌          | [Vouch](audit-reports/pdf/Vouch_Contract_Final_Audit_Report.pdf)                                           |                          | ♦ Solidity-EVM    | Credshields               |
+| 👌          | [SAN](audit-reports/pdf/SAN_Final_Report.pdf)                                                              |                          | ♦ Solidity-EVM    | Credshields               |
+| 👌          | [Tribally Games](audit-reports/pdf/Tribally_Games_Final_Report.pdf)                                        |                          | ♦ Solidity-EVM    | Credshields               |
+| 💎          | [Plutope](audit-reports/pdf/Plutope_Final_Audit_Report.pdf)                                                |                          | ♦ Solidity-EVM    | Credshields               |
+| 💎          | [LogX](audit-reports/pdf/LogX_Token_Final_Report.pdf)                                                      | Validator                | ♦ Solidity-EVM    | Credshields               |
+| 👌          | [Kresus](audit-reports/pdf/Kresus_Final_Audit_Report.pdf)                                                  | Account Abstraction      | ♦ Solidity-EVM    | Credshields               |
+| 💎          | [Rex Protocol](audit-reports/pdf/Rex_Exchange_Final_Audit_Report.pdf)                                      |                          | ♦ Solidity-EVM    | Credshields               |
+| 💎          | [aUSD: Stable Jack](audit-reports/pdf/aUSD_SC_Final_Audit_Report.pdf)                                      |                          | ♦ Solidity-EVM    | Credshields               |
+| 👌          | [Arcana Staking](audit-reports/pdf/Arcana_Staking_Contract_Final_Audit_Report.pdf)                         |                          | ♦ Solidity-EVM    | Credshields               |
+| 💎          | [Wasset](audit-reports/pdf/Wasset_Final_Audit_Report.pdf)                                                  |                          | ♦ Solidity-EVM    | Credshields               |
+| 👌          | [Numa](audit-reports/pdf/Numa_Final_Audit_Report.pdf)                                                      |                          | ♦ Solidity-EVM    | Credshields               |
+| 👌          | [Hyacinth](audit-reports/md/Hyacinth-security-review.md)                                                   |                          | ♦ Solidity-EVM    | Solo                      |
 
 # Report Template
 
