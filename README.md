@@ -1,6 +1,6 @@
 # Smart Contract Audit and Finding Reports by Naman Jain
 
-Listed below are the Smart Contract audits I’ve conducted since starting in Web3 security. Each entry includes the publishing firm and a link to the public report.
+Here are the smart contract audits I’ve conducted since I began working in Web3 security. Each entry includes the publishing firm and a link to the public report.
 
 > [!TIP]
 > The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰. <br>
@@ -22,7 +22,7 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx
 
 <br>
 
-> [!IMPORTANT]
+> [!NOTE]
 > 60% for my private audits are on collaborative basis (with team)
 
 # Private Audits
