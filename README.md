@@ -23,7 +23,7 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx
 <br>
 
 > [!IMPORTANT]
-> 80% for my private audits are on collaborative basis (with team)
+> 60% for my private audits are on collaborative basis (with team)
 
 # Private Audits
 
@@ -31,6 +31,7 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- |
 |             |
 | <b>2025</b> |
+| 👌          | [Hemi Labs](audit-reports/pdf/Hemi_Labs_Final_Audit_Report.pdf)                                            | Vault                    | ♦ Solidity-EVM    | Credshields               |
 | 📰          | [Stax](audit-reports/md/Stax-Security-Review.md)                                                           | DeFi, Staking            | ♦ Solidity-EVM    | Shieldify Security        |
 | 👌          | Coming soon                                                                                                | Defi, Staking, Vesting   | ♦ Solidity-EVM    | Solo                      |
 | 👌          | [W3.Labs](audit-reports/pdf/W3.labs_Final_Audit_Report.pdf)                                                |                          | ♦ Solidity-EVM    | Credshields               |
