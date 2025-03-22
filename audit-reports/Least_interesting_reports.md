@@ -6,6 +6,7 @@ least interesting audit reports
 | ----------- | ----------------------------------------------------------------------------------- | -------------- | ----------- |
 |             |                                                                                     |                |             |
 | <b>2025</b> |                                                                                     |                |             |
+| 📰          | [Liqfinity Token](audit-reports/pdf/Liqfinity_Token_Final_Audit_Report.pdf)         | ♦ Solidity-EVM | Credshields |
 | 📰          | [ePound](audit-reports/pdf/ePound_Final_Audit_Report.pdf)                           | ♦ Solidity-EVM | Credshields |
 | 📰          | [Healthcare Databse](audit-reports/pdf/HealthCareDatabase_Final_Audit_Report.pdf)   | ♦ Solidity-EVM | Credshields |
 | 📰          | [Liza Coin](audit-reports/pdf/Liza_Coin_Final_Audit_Report.pdf)                     | ♦ Solidity-EVM | Credshields |
