@@ -12,7 +12,6 @@ least interesting audit reports
 | 📰          | [Liza Coin](audit-reports/pdf/Liza_Coin_Final_Audit_Report.pdf)                     | ♦ Solidity-EVM | Credshields |
 | <br>        |                                                                                     |                |             |
 | <b>2024</b> |                                                                                     |                |             |
-| 📰          | [Lync Wrold Corporation](audit-reports/pdf/Uponly_Contracts_Final_Audit_Report.pdf) | ♦ Solidity-EVM | Credshields |
 | 📰          | [Protop Token](audit-reports/pdf/Protop_Token_Contract_Final_Report.pdf)            | ♦ Solidity-EVM | Credshields |
 | 📰          | [Tribally Token](audit-reports/pdf/Tribal_Token_Final_Report.pdf)                   | ♦ Solidity-EVM | Credshields |
 | 📰          | [Emblium Labs Limited](audit-reports/pdf/Kaku_SmartContract_Final_Report.pdf)       | ♦ Solidity-EVM | Credshields |
