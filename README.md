@@ -31,7 +31,8 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- |
 |             |
 | <b>2025</b> |
-| 👌          | [mew.gg](audit-reports/pdf/mew.gg_Contracts_Final_Audit_Report.pdf)                                        | DeFi, AMM                | ♦ Solidity-EVM    | Credshields               |
+| 💎          | [Fomodotbiz](audit-reports/pdf/Fomodotbiz_Final_Audit_Report.pdf)                                          | AMM ,Bonding Curve       | ♦ Solidity-EVM    | Credshields               |
+| 👌          | [mew.gg](audit-reports/pdf/mew.gg_Contracts_Final_Audit_Report.pdf)                                        | AMM                      | ♦ Solidity-EVM    | Credshields               |
 | 👌          | [Hemi Labs](audit-reports/pdf/Hemi_Labs_Final_Audit_Report.pdf)                                            | Vault                    | ♦ Solidity-EVM    | Credshields               |
 | 📰          | [Stax](audit-reports/md/Stax-Security-Review.md)                                                           | DeFi, Staking            | ♦ Solidity-EVM    | Shieldify Security        |
 | 👌          | Coming soon                                                                                                | Defi, Staking, Vesting   | ♦ Solidity-EVM    | Solo                      |
