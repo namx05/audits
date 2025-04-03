@@ -7,7 +7,7 @@ I'm an independent security researcher specialized in Solidity and, more recentl
 
 For private audits or security consulting, please reach out to me on:
 
-- Twitter: [@namx05](<[https](https://x.com/namx05)>)
+- Twitter: [@namx05](https://x.com/namx05)
 - Telegram: [@namx05](https://t.me/namx05)
 
 # Audits
