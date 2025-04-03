@@ -1,14 +1,22 @@
-# Smart Contract Audit and Finding Reports by Naman Jain
+## About:
 
-Here are the smart contract audits I’ve conducted since I began working in Web3 security. Each entry includes the publishing firm and a link to the public report.
+I'm an independent security researcher specialized in Solidity and, more recently, Rust audits. My current areas of focus are VMs and cross-chain protocols.
+
+- 🏢 Security Researcher [@CredShields](https://credshields.com)
+- You can find my CV [here](https://docs.google.com/document/d/1bXGsFB4y142gvz49MWaSB97BtRmleL4GBt4ydm9yVDM/edit?tab=t.0).
+
+For private audits or security consulting, please reach out to me on:
+
+- Twitter: [@namx05](<[https](https://x.com/namx05)>)
+- Telegram: [@namx05](https://t.me/namx05)
+
+# Audits
 
 > [!TIP]
 > The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰. <br>
-> Very least interesting reports can be found [here](audit-reports/Least_interesting_reports.md)
+> Least interesting reports can be found [here](audit-reports/Least_interesting_reports.md)
 
-<br>
-
-# Contests Audits:
+## Audit Contests:
 
 Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx05)
 
@@ -25,7 +33,7 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx
 > [!NOTE]
 > 60% for my private audits are on collaborative basis (with team)
 
-# Private Audits
+## Private Audits
 
 |             | Report                                                                                                     | Description              | Lang-Ecosystem    | Provider                  |
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- |
