@@ -23,6 +23,7 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx
 |     | Rank | Report                                                                                                           | Description    | Critical/High | Medium | Lang-Ecosystem | Platform  |
 | --- | ---- | ---------------------------------------------------------------------------------------------------------------- | -------------- | ------------- | ------ | -------------- | --------- |
 |     |      |                                                                                                                  |                |               |        |                |           |
+| 👌 | 62 | [Rust Fund](https://codehawks.cyfrin.io/c/2025-03-rustfund/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard) | Crowdfunding | 1 | 2 | 🦀 Rust-Solana  | CodeHawks| 
 | 👌  | 16   | [Hyperland](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)                   | Lending        | 1             | -      | ♦ Solidity-EVM | Cantina   |
 | 💎  | 177  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) | Bridge         | -             | 1      | ♦ Solidity-EVM | CodeHawks |
 | 💎  | 39   | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge)                                                   | GameFi         | 1             | -      | ♦ Solidity-EVM | CodeArena |
