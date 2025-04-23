@@ -41,6 +41,7 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- |
 |             |
 | <b>2025</b> |
+| 👌          | [LERN360](audit-reports/pdf/LERNToken_Final_Audit_Report.pdf)                                              | ERC20                    | ♦ Solidity-EVM    | Credshields               |
 | 💎          | [Fomodotbiz](audit-reports/pdf/Fomodotbiz_Final_Audit_Report.pdf)                                          | AMM, Bonding Curve       | ♦ Solidity-EVM    | Credshields               |
 | 👌          | [mew.gg](audit-reports/pdf/mew.gg_Contracts_Final_Audit_Report.pdf)                                        | AMM                      | ♦ Solidity-EVM    | Credshields               |
 | 👌          | [Hemi Labs](audit-reports/pdf/Hemi_Labs_Final_Audit_Report.pdf)                                            | Vault                    | ♦ Solidity-EVM    | Credshields               |
