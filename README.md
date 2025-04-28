@@ -16,7 +16,7 @@ For private audits or security consulting, please reach out to me on:
 > The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰. <br>
 > Least interesting reports can be found [here](audit-reports/Least_interesting_reports.md)
 
-## Audit Contests:
+## Public Audit Contests:
 
 Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx05)
 
@@ -83,6 +83,29 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx
 | 💎          | [Wasset](audit-reports/pdf/Wasset_Final_Audit_Report.pdf)                                                  |                          | ♦ Solidity-EVM    | Credshields               |
 | 👌          | [Numa](audit-reports/pdf/Numa_Final_Audit_Report.pdf)                                                      |                          | ♦ Solidity-EVM    | Credshields               |
 | 👌          | [Hyacinth](audit-reports/md/Hyacinth-security-review.md)                                                   |                          | ♦ Solidity-EVM    | Solo                      |
+
+## Least Interesting Audit Reports
+
+|             | Report                                                                            | Tech           | Firm        |
+| ----------- | --------------------------------------------------------------------------------- | -------------- | ----------- |
+|             |                                                                                   |                |             |
+| <b>2025</b> |                                                                                   |                |             |
+|             | [Tunnl Exchange](audit-reports/pdf/TUNToken_Final_Audit_Report.pdf)               |                |             |
+|             | [Liqfinity Token](audit-reports/pdf/Liqfinity_Token_Final_Audit_Report.pdf)       | ♦ Solidity-EVM | Credshields |
+|             | [ePound](audit-reports/pdf/ePound_Final_Audit_Report.pdf)                         | ♦ Solidity-EVM | Credshields |
+|             | [Healthcare Databse](audit-reports/pdf/HealthCareDatabase_Final_Audit_Report.pdf) | ♦ Solidity-EVM | Credshields |
+|             | [Liza Coin](audit-reports/pdf/Liza_Coin_Final_Audit_Report.pdf)                   | ♦ Solidity-EVM | Credshields |
+| <br>        |                                                                                   |                |             |
+| <b>2024</b> |                                                                                   |                |             |
+|             | [Protop Token](audit-reports/pdf/Protop_Token_Contract_Final_Report.pdf)          | ♦ Solidity-EVM | Credshields |
+|             | [Tribally Token](audit-reports/pdf/Tribal_Token_Final_Report.pdf)                 | ♦ Solidity-EVM | Credshields |
+|             | [Emblium Labs Limited](audit-reports/pdf/Kaku_SmartContract_Final_Report.pdf)     | ♦ Solidity-EVM | Credshields |
+|             | [Asset Chain](audit-reports/pdf/Asset_Chain_Final_Audit_Report.pdf)               | ♦ Solidity-EVM | Credshields |
+|             | [Styleo Coin](audit-reports/pdf/Styleo_Coin_Final_Audit_Report.pdf)               | ♦ Solidity-EVM | Credshields |
+|             | [Moby](audit-reports/pdf/Moby_Smart_Contract_Final_Report.pdf)                    | ♦ Solidity-EVM | Credshields |
+|             | [Compad Coin](audit-reports/pdf/Compad_Coin_Final_Audit_Report.pdf)               | ♦ Solidity-EVM | Credshields |
+|             | [Factiiv](audit-reports/pdf/Factiiv_Token_Final_Audit_Report.pdf)                 | ♦ Solidity-EVM | Credshields |
+|             | [Arcana: Paymaster](audit-reports/pdf/Arcana_PayMaster_Final_Report.pdf)          | ♦ Solidity-EVM | Credshields |
 
 # Report Template
 
