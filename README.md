@@ -1,6 +1,6 @@
 ## About:
 
-I'm security researcher specialized in **Solidity** and, more recently, **Rust** audits. Conducted 80+ private audits in which **20+** was **Rust audits 🦀**. I've found **150+ Critical/High** so far. My current areas of focus are VMs and cross-chain protocols.
+I'm security researcher specialized in **Solidity** and, more recently, **Rust** audits. Conducted 100+ private audits in which **20+** was **Rust audits 🦀**. I've found **150+ Critical/High** so far. My current areas of focus are VMs and cross-chain protocols.
 
 - Security Researcher [@CredShields](https://credshields.com)
 - You can find my CV [here](https://docs.google.com/document/d/1bXGsFB4y142gvz49MWaSB97BtRmleL4GBt4ydm9yVDM/edit?tab=t.0).
@@ -10,7 +10,13 @@ For private audits or security consulting, please reach out to me on:
 - Twitter: [@namx05](https://x.com/namx05)
 - Telegram: [@namx05](https://t.me/namx05)
 
----
+## Table Of Contents
+
+- [Abont](#about)
+- [Public Audit Contests](#public-audit-contests)
+- [Private Audits](#private-audits)
+  - [Least Intesting Audits Reports](#least-interesting-audit-reports)
+- [Report Template](#report-template)
 
 > [!TIP]
 > The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰. <br>
@@ -20,15 +26,16 @@ For private audits or security consulting, please reach out to me on:
 
 Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx05)
 
-|     | Rank | Report                                                                                                                         | Description    | Critical/High | Medium | Lang-Ecosystem | Platform  |
-| --- | ---- | ------------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------- | ------ | -------------- | --------- |
-|     |      |                                                                                                                                |                |               |        |                |           |
-| 👌  | 44   | [Eggstravaganza](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/results?lt=contest&page=5&sc=xp&sj=reward&t=leaderboard) | GameFi, NFT    | 2             |        | ♦ Solidity-EVM | CodeHawks |
-| 👌  | 62   | [Rust Fund](https://codehawks.cyfrin.io/c/2025-03-rustfund/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)            | Crowdfunding   | 1             | 2      | 🦀 Rust-Solana | CodeHawks |
-| 👌  | 16   | [Hyperland](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)                                 | Lending        | 1             |        | ♦ Solidity-EVM | Cantina   |
-| 💎  | 177  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)               | Bridge         |               | 1      | ♦ Solidity-EVM | CodeHawks |
-| 💎  | 39   | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge)                                                                 | GameFi         | 1             |        | ♦ Solidity-EVM | CodeArena |
-| 📰  | 89   | [Pool Together](https://code4rena.com/audits/2023-07-pooltogether)                                                             | Staking, Yeild |               | 1      | ♦ Solidity-EVM | CodeArena |
+|     | Rank | Report                                                                                                                         | Description       | Critical/High | Medium | Lang-Ecosystem | Platform  |
+| --- | ---- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------- | ------ | -------------- | --------- |
+|     |      |                                                                                                                                |                   |               |        |                |           |
+|     |      | [Metropolis]()                                                                                                                 | Lending/Borrwoing |               |        | ♦ Solidity-EVM | Cantina   |
+| 👌  | 44   | [Eggstravaganza](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/results?lt=contest&page=5&sc=xp&sj=reward&t=leaderboard) | GameFi, NFT       | 2             |        | ♦ Solidity-EVM | CodeHawks |
+| 👌  | 62   | [Rust Fund](https://codehawks.cyfrin.io/c/2025-03-rustfund/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)            | Crowdfunding      | 1             | 2      | 🦀 Rust-Solana | CodeHawks |
+| 👌  | 16   | [Hyperland](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)                                 | Lending/Borrowing | 1             |        | ♦ Solidity-EVM | Cantina   |
+| 💎  | 177  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)               | Bridge            |               | 1      | ♦ Solidity-EVM | CodeHawks |
+| 💎  | 39   | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge)                                                                 | GameFi            | 1             |        | ♦ Solidity-EVM | CodeArena |
+| 📰  | 89   | [Pool Together](https://code4rena.com/audits/2023-07-pooltogether)                                                             | Staking, Yeild    |               | 1      | ♦ Solidity-EVM | CodeArena |
 
 <br>
 
@@ -90,7 +97,8 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx
 | ----------- | --------------------------------------------------------------------------------- | -------------- | ----------- |
 |             |                                                                                   |                |             |
 | <b>2025</b> |                                                                                   |                |             |
-|             | [Tunnl Exchange](audit-reports/pdf/TUNToken_Final_Audit_Report.pdf)               |                |             |
+|             | [Star Token](audit-reports/pdf/Star_FSTR_Token_Final_Audit_Report.pdf)            | ♦ Solidity-EVM | Credshields |
+|             | [Tunnl Exchange](audit-reports/pdf/TUNToken_Final_Audit_Report.pdf)               | ♦ Solidity-EVM | Credshields |
 |             | [Liqfinity Token](audit-reports/pdf/Liqfinity_Token_Final_Audit_Report.pdf)       | ♦ Solidity-EVM | Credshields |
 |             | [ePound](audit-reports/pdf/ePound_Final_Audit_Report.pdf)                         | ♦ Solidity-EVM | Credshields |
 |             | [Healthcare Databse](audit-reports/pdf/HealthCareDatabase_Final_Audit_Report.pdf) | ♦ Solidity-EVM | Credshields |
