@@ -48,7 +48,10 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- |
 |             |
 | <b>2025</b> |
-| 📰          | [Superfund](audit-reports/pdf/Superfund_Audit_Final_Report.pdf)                                           | ERC4626                  | ♦ Solidity-EVM    | Solo                      |
+| 💎          | [Power Couple Coin](audit-reports/pdf/Lottery_Contracts_Final_Audit_Report.pdf)                            | Staking, Lottery         | 🦀 Rust-Solana    | Credshields               |
+| 💎          | [Artulabs Limited](audit-reports/pdf/Artu_Rust_Final_Audit_Report.pdf)                                     | Airdrop, SPL Tokens      | 🦀 Rust-Solana    | Credshields               |
+| 👌          | [Artulabs Limited](audit-reports/pdf/Artu_Solidity_Final_Audit_Report.pdf)                                 | Vesting, ERC20           | ♦ Solidity-EVM    | Credshields               |
+| 📰          | [Superfund](audit-reports/pdf/Superfund_Audit_Final_Report.pdf)                                            | ERC4626                  | ♦ Solidity-EVM    | Solo                      |
 | 👌          | [LERN360](audit-reports/pdf/LERNToken_Final_Audit_Report.pdf)                                              | ERC20                    | ♦ Solidity-EVM    | Credshields               |
 | 💎          | [Fomodotbiz](audit-reports/pdf/Fomodotbiz_Final_Audit_Report.pdf)                                          | AMM, Bonding Curve       | ♦ Solidity-EVM    | Credshields               |
 | 👌          | [mew.gg](audit-reports/pdf/mew.gg_Contracts_Final_Audit_Report.pdf)                                        | AMM                      | ♦ Solidity-EVM    | Credshields               |
