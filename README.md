@@ -12,35 +12,34 @@ For private audits or security consulting, please reach out to me on:
 
 ## Table Of Contents
 
-- [Abont](#about)
+- [About](#about)
 - [Public Audit Contests](#public-audit-contests)
 - [Private Audits](#private-audits)
   - [Least Intesting Audits Reports](#least-interesting-audit-reports)
 - [Report Template](#report-template)
 
-> [!TIP]
-> The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰. <br>
-> Least interesting reports can be found [here](audit-reports/Least_interesting_reports.md)
-
 ## Public Audit Contests:
 
 Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx05)
 
-|     | Rank | Report                                                                                                                         | Description       | Critical/High | Medium | Lang-Ecosystem | Platform  |
-| --- | ---- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------- | ------ | -------------- | --------- |
-|     |      |                                                                                                                                |                   |               |        |                |           |
-|     |      | [Metropolis]()                                                                                                                 | Lending/Borrwoing |               |        | ♦ Solidity-EVM | Cantina   |
-| 👌  | 44   | [Eggstravaganza](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/results?lt=contest&page=5&sc=xp&sj=reward&t=leaderboard) | GameFi, NFT       | 2             |        | ♦ Solidity-EVM | CodeHawks |
-| 👌  | 62   | [Rust Fund](https://codehawks.cyfrin.io/c/2025-03-rustfund/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)            | Crowdfunding      | 1             | 2      | 🦀 Rust-Solana | CodeHawks |
-| 👌  | 16   | [Hyperland](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)                                 | Lending/Borrowing | 1             |        | ♦ Solidity-EVM | Cantina   |
-| 💎  | 177  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)               | Bridge            |               | 1      | ♦ Solidity-EVM | CodeHawks |
-| 💎  | 39   | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge)                                                                 | GameFi            | 1             |        | ♦ Solidity-EVM | CodeArena |
-| 📰  | 89   | [Pool Together](https://code4rena.com/audits/2023-07-pooltogether)                                                             | Staking, Yeild    |               | 1      | ♦ Solidity-EVM | CodeArena |
+| Rank | Report                                                                                                                         | Description       | Critical/High | Medium | Lang-Ecosystem | Platform  |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------- | ------ | -------------- | --------- |
+|      |                                                                                                                                |                   |               |        |                |           |
+|      | [Metropolis]()                                                                                                                 | Lending/Borrwoing |               |        | ♦ Solidity-EVM | Cantina   |
+| 44   | [Eggstravaganza](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/results?lt=contest&page=5&sc=xp&sj=reward&t=leaderboard) | GameFi, NFT       | 2             |        | ♦ Solidity-EVM | CodeHawks |
+| 62   | [Rust Fund](https://codehawks.cyfrin.io/c/2025-03-rustfund/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)            | Crowdfunding      | 1             | 2      | 🦀 Rust-Solana | CodeHawks |
+| 16   | [Hyperland](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)                                 | Lending/Borrowing | 1             |        | ♦ Solidity-EVM | Cantina   |
+| 177  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)               | Bridge            |               | 1      | ♦ Solidity-EVM | CodeHawks |
+| 39   | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge)                                                                 | GameFi            | 1             |        | ♦ Solidity-EVM | CodeArena |
+| 89   | [Pool Together](https://code4rena.com/audits/2023-07-pooltogether)                                                             | Staking, Yeild    |               | 1      | ♦ Solidity-EVM | CodeArena |
 
 <br>
 
 > [!NOTE]
 > 60% for my private audits are on collaborative basis (with team)
+
+> [!TIP]
+> The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰. <br>
 
 ## Private Audits
 
