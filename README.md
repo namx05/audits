@@ -1,45 +1,18 @@
 ## About:
 
-I'm security researcher specialized in **Solidity** and, more recently, **Rust** audits. Conducted 100+ private audits in which **20+** was **Rust audits 🦀**. I've found **150+ Critical/High** so far. My current areas of focus are VMs and cross-chain protocols.
-
-- Security Researcher [@CredShields](https://credshields.com)
-- You can find my CV [here](https://docs.google.com/document/d/1bXGsFB4y142gvz49MWaSB97BtRmleL4GBt4ydm9yVDM/edit?tab=t.0).
+I'm security researcher specialized in **Solidity** and **Rust** (Solana, CosmWasm) audits. Conducted 100+ private audits in which **20+** was **Rust audits 🦀**. I've found **150+ Critical/High** so far.
 
 For private audits or security consulting, please reach out to me on:
 
 - Twitter: [@namx05](https://x.com/namx05)
 - Telegram: [@namx05](https://t.me/namx05)
 
-## Table Of Contents
-
-- [About](#about)
-- [Public Audit Contests](#public-audit-contests)
-- [Private Audits](#private-audits)
-  - [Least Intesting Audits Reports](#least-interesting-audit-reports)
-- [Report Template](#report-template)
-
-## Public Audit Contests:
-
-Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx05)
-
-| Rank | Report                                                                                                                         | Description       | Critical/High | Medium | Lang-Ecosystem | Platform  |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------- | ------ | -------------- | --------- |
-|      |                                                                                                                                |                   |               |        |                |           |
-|      | [Metropolis]()                                                                                                                 | Lending/Borrwoing |               |        | ♦ EVM          | Cantina   |
-| 44   | [Eggstravaganza](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/results?lt=contest&page=5&sc=xp&sj=reward&t=leaderboard) | GameFi, NFT       | 2             |        | ♦ EVM          | CodeHawks |
-| 62   | [Rust Fund](https://codehawks.cyfrin.io/c/2025-03-rustfund/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)            | Crowdfunding      | 1             | 2      | 🦀 Solana      | CodeHawks |
-| 16   | [Hyperland](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)                                 | Lending/Borrowing | 1             |        | ♦ EVM          | Cantina   |
-| 177  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)               | Bridge            |               | 1      | ♦ EVM          | CodeHawks |
-| 39   | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge)                                                                 | GameFi            | 1             |        | ♦ EVM          | CodeArena |
-| 89   | [Pool Together](https://code4rena.com/audits/2023-07-pooltogether)                                                             | Staking, Yeild    |               | 1      | ♦ EVM          | CodeArena |
-
-<br>
-
-> [!NOTE]
-> 60% for my private audits are on collaborative basis (with team)
+---
 
 > [!TIP]
-> The most interesting reports are marked 💎, mildly interesting as 👌 and less interesting as 📰. <br>
+> The most interesting reports are marked 💎,
+> mildly interesting as 👌 and
+> less interesting as 📰. <br>
 
 ## Private Audits
 
@@ -47,7 +20,7 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- |
 |             |
 | <b>2025</b> |
-| 💎          | Private                                                                                                    | Staking, GameFi          | 🦀 Solana         | Guardian Audits           |
+| 💎          | Undisclosed                                                                                                | Staking, GameFi          | 🦀 Solana / ♦ EVM | Guardian Audits           |
 | 💎          | [Power Couple Coin](audit-reports/pdf/Lottery_Contracts_Final_Audit_Report.pdf)                            | Staking, Lottery         | 🦀 Solana         | Credshields               |
 | 💎          | [Artulabs Limited](audit-reports/pdf/Artu_Rust_Final_Audit_Report.pdf)                                     | Airdrop, SPL Tokens      | 🦀 Solana         | Credshields               |
 | 👌          | [Artulabs Limited](audit-reports/pdf/Artu_Solidity_Final_Audit_Report.pdf)                                 | Vesting, ERC20           | ♦ EVM             | Credshields               |
@@ -57,11 +30,17 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx
 | 👌          | [mew.gg](audit-reports/pdf/mew.gg_Contracts_Final_Audit_Report.pdf)                                        | AMM                      | ♦ EVM             | Credshields               |
 | 👌          | [Hemi Labs](audit-reports/pdf/Hemi_Labs_Final_Audit_Report.pdf)                                            | Vault                    | ♦ EVM             | Credshields               |
 | 📰          | [Stax](audit-reports/md/Stax-Security-Review.md)                                                           | DeFi, Staking            | ♦ EVM             | Shieldify Security        |
-| 👌          | Private                                                                                                    | Defi, Staking, Vesting   | ♦ EVM             | Solo                      |
-| 👌          | [W3.Labs](audit-reports/pdf/W3.labs_Final_Audit_Report.pdf)                                                |                          | ♦ EVM             | Credshields               |
+| 👌          | Undisclosed                                                                                                | Defi, Staking, Vesting   | ♦ EVM             | Solo                      |
+| 👌          | [W3.Labs](audit-reports/pdf/W3.labs_Final_Audit_Report.pdf)                                                | Staking Vault            | ♦ EVM             | Credshields               |
 | 👌          | [After Finance](audit-reports/pdf/After-Finance-Report.pdf)                                                | Lending/Borrowing, Yeild | ♦ EVM             | Arsen Blockchain Security |
 | 👌          | [BRLA Digital](audit-reports/pdf/BRLA_Final_Audit_Report.pdf)                                              |                          | ♦ EVM             | Credshields               |
 | 💎          | [Metaco Intelligence Corporation](audit-reports/pdf/Zoth_Final_Audit_Report.pdf)                           | Restaking                | ♦ EVM             | Credshields               |
+| 📰          | [Star Token](audit-reports/pdf/Star_FSTR_Token_Final_Audit_Report.pdf)                                     | ERC20                    | ♦ EVM             | Credshields               |
+| 📰          | [Tunnl Exchange](audit-reports/pdf/TUNToken_Final_Audit_Report.pdf)                                        | ERC20                    | ♦ EVM             | Credshields               |
+| 📰          | [Liqfinity Token](audit-reports/pdf/Liqfinity_Token_Final_Audit_Report.pdf)                                | ERC20                    | ♦ EVM             | Credshields               |
+| 📰          | [ePound](audit-reports/pdf/ePound_Final_Audit_Report.pdf)                                                  | ERC20                    | ♦ EVM             | Credshields               |
+| 📰          | [Healthcare Databse](audit-reports/pdf/HealthCareDatabase_Final_Audit_Report.pdf)                          | ERC20                    | ♦ EVM             | Credshields               |
+| 📰          | [Liza Coin](audit-reports/pdf/Liza_Coin_Final_Audit_Report.pdf)                                            | ERC20                    | ♦ EVM             | Credshields               |
 | <br>        |
 | <b>2024</b> |
 | 📰          | [AllinGames: Andar Bahar](audit-reports/pdf/AllInGames_Andar_Bahar_Final_Audit_Report.pdf)                 | GameFi                   | 🦀 CosmWasm       | Credshields               |
@@ -94,31 +73,27 @@ Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx
 | 💎          | [Wasset](audit-reports/pdf/Wasset_Final_Audit_Report.pdf)                                                  |                          | ♦ EVM             | Credshields               |
 | 👌          | [Numa](audit-reports/pdf/Numa_Final_Audit_Report.pdf)                                                      |                          | ♦ EVM             | Credshields               |
 | 👌          | [Hyacinth](audit-reports/md/Hyacinth-security-review.md)                                                   |                          | ♦ EVM             | Solo                      |
+| 📰          | [Protop Token](audit-reports/pdf/Protop_Token_Contract_Final_Report.pdf)                                   | ERC20                    | ♦ EVM             | Credshields               |
+| 📰          | [Tribally Token](audit-reports/pdf/Tribal_Token_Final_Report.pdf)                                          | ERC20                    | ♦ EVM             | Credshields               |
+| 📰          | [Emblium Labs Limited](audit-reports/pdf/Kaku_SmartContract_Final_Report.pdf)                              | ERC20                    | ♦ EVM             | Credshields               |
+| 📰          | [Asset Chain](audit-reports/pdf/Asset_Chain_Final_Audit_Report.pdf)                                        | ERC20                    | ♦ EVM             | Credshields               |
+| 📰          | [Styleo Coin](audit-reports/pdf/Styleo_Coin_Final_Audit_Report.pdf)                                        | ERC20                    | ♦ EVM             | Credshields               |
+| 📰          | [Moby](audit-reports/pdf/Moby_Smart_Contract_Final_Report.pdf)                                             | ERC20                    | ♦ EVM             | Credshields               |
+| 📰          | [Compad Coin](audit-reports/pdf/Compad_Coin_Final_Audit_Report.pdf)                                        | ERC20                    | ♦ EVM             | Credshields               |
+| 📰          | [Factiiv](audit-reports/pdf/Factiiv_Token_Final_Audit_Report.pdf)                                          | ERC20                    | ♦ EVM             | Credshields               |
+| 📰          | [Arcana: Paymaster](audit-reports/pdf/Arcana_PayMaster_Final_Report.pdf)                                   | ERC20                    | ♦ EVM             | Credshields               |
 
-## Least Interesting Audit Reports
+## Public Audits:
 
-|             | Report                                                                            | Tech  | Firm        |
-| ----------- | --------------------------------------------------------------------------------- | ----- | ----------- |
-|             |                                                                                   |       |             |
-| <b>2025</b> |                                                                                   |       |             |
-|             | [Star Token](audit-reports/pdf/Star_FSTR_Token_Final_Audit_Report.pdf)            | ♦ EVM | Credshields |
-|             | [Tunnl Exchange](audit-reports/pdf/TUNToken_Final_Audit_Report.pdf)               | ♦ EVM | Credshields |
-|             | [Liqfinity Token](audit-reports/pdf/Liqfinity_Token_Final_Audit_Report.pdf)       | ♦ EVM | Credshields |
-|             | [ePound](audit-reports/pdf/ePound_Final_Audit_Report.pdf)                         | ♦ EVM | Credshields |
-|             | [Healthcare Databse](audit-reports/pdf/HealthCareDatabase_Final_Audit_Report.pdf) | ♦ EVM | Credshields |
-|             | [Liza Coin](audit-reports/pdf/Liza_Coin_Final_Audit_Report.pdf)                   | ♦ EVM | Credshields |
-| <br>        |                                                                                   |       |             |
-| <b>2024</b> |                                                                                   |       |             |
-|             | [Protop Token](audit-reports/pdf/Protop_Token_Contract_Final_Report.pdf)          | ♦ EVM | Credshields |
-|             | [Tribally Token](audit-reports/pdf/Tribal_Token_Final_Report.pdf)                 | ♦ EVM | Credshields |
-|             | [Emblium Labs Limited](audit-reports/pdf/Kaku_SmartContract_Final_Report.pdf)     | ♦ EVM | Credshields |
-|             | [Asset Chain](audit-reports/pdf/Asset_Chain_Final_Audit_Report.pdf)               | ♦ EVM | Credshields |
-|             | [Styleo Coin](audit-reports/pdf/Styleo_Coin_Final_Audit_Report.pdf)               | ♦ EVM | Credshields |
-|             | [Moby](audit-reports/pdf/Moby_Smart_Contract_Final_Report.pdf)                    | ♦ EVM | Credshields |
-|             | [Compad Coin](audit-reports/pdf/Compad_Coin_Final_Audit_Report.pdf)               | ♦ EVM | Credshields |
-|             | [Factiiv](audit-reports/pdf/Factiiv_Token_Final_Audit_Report.pdf)                 | ♦ EVM | Credshields |
-|             | [Arcana: Paymaster](audit-reports/pdf/Arcana_PayMaster_Final_Report.pdf)          | ♦ EVM | Credshields |
+Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx05)
 
-# Report Template
-
-> [Report Template](audit-reports/report_template.md)
+| Rank | Report                                                                                                                         | Description       | Critical/High | Medium | Lang-Ecosystem | Platform  |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------- | ------ | -------------- | --------- |
+|      |                                                                                                                                |                   |               |        |                |           |
+|      | [Metropolis]()                                                                                                                 | Lending/Borrwoing |               |        | ♦ EVM          | Cantina   |
+| 44   | [Eggstravaganza](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/results?lt=contest&page=5&sc=xp&sj=reward&t=leaderboard) | GameFi, NFT       | 2             |        | ♦ EVM          | CodeHawks |
+| 62   | [Rust Fund](https://codehawks.cyfrin.io/c/2025-03-rustfund/results?lt=contest&page=1&sc=xp&sj=reward&t=leaderboard)            | Crowdfunding      | 1             | 2      | 🦀 Solana      | CodeHawks |
+| 16   | [Hyperland](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)                                 | Lending/Borrowing | 1             |        | ♦ EVM          | Cantina   |
+| 177  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)               | Bridge            |               | 1      | ♦ EVM          | CodeHawks |
+| 39   | [Trait Forge](https://code4rena.com/audits/2024-07-traitforge)                                                                 | GameFi            | 1             |        | ♦ EVM          | CodeArena |
+| 89   | [Pool Together](https://code4rena.com/audits/2023-07-pooltogether)                                                             | Staking, Yeild    |               | 1      | ♦ EVM          | CodeArena |
