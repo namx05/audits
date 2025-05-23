@@ -33,7 +33,7 @@ For private audits or security consulting, please reach out to me on:
 | 👌          | Undisclosed                                                                                                | Defi, Staking, Vesting   | ♦ EVM             | Solo                      |
 | 👌          | [W3.Labs](audit-reports/pdf/W3.labs_Final_Audit_Report.pdf)                                                | Staking Vault            | ♦ EVM             | Credshields               |
 | 👌          | [After Finance](audit-reports/pdf/After-Finance-Report.pdf)                                                | Lending/Borrowing, Yeild | ♦ EVM             | Arsen Blockchain Security |
-| 👌          | [BRLA Digital](audit-reports/pdf/BRLA_Final_Audit_Report.pdf)                                              |                          | ♦ EVM             | Credshields               |
+| 👌          | [BRLA Digital](audit-reports/pdf/BRLA_Final_Audit_Report.pdf)                                              | ERC20 Token Swap         | ♦ EVM             | Credshields               |
 | 💎          | [Metaco Intelligence Corporation](audit-reports/pdf/Zoth_Final_Audit_Report.pdf)                           | Restaking                | ♦ EVM             | Credshields               |
 | 📰          | [Star Token](audit-reports/pdf/Star_FSTR_Token_Final_Audit_Report.pdf)                                     | ERC20                    | ♦ EVM             | Credshields               |
 | 📰          | [Tunnl Exchange](audit-reports/pdf/TUNToken_Final_Audit_Report.pdf)                                        | ERC20                    | ♦ EVM             | Credshields               |
