@@ -20,7 +20,7 @@ For private audits or security consulting, please reach out to me on:
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- |
 |             |
 | <b>2025</b> |
-| 👌          | [Terplayer Hodl](audit-reports/pdf/Terplayer-Hodl-Security-Review.pdf)                                     | DeFi, Lending/Borrowing  | 🐻 EVM            | Shieldify Security        |
+| 👌          | [Terplayer Hodl](audit-reports/pdf/Terplayer-Hodl-Security-Review.pdf)                                     | DeFi, Lending/Borrowing  | 🐻 Berachain      | Shieldify Security        |
 | 💎          | Undisclosed                                                                                                | Staking, GameFi          | 🦀 Solana / ♦ EVM | Guardian Audits           |
 | 💎          | [Power Couple Coin](audit-reports/pdf/Lottery_Contracts_Final_Audit_Report.pdf)                            | Staking, Lottery         | 🦀 Solana         | Credshields               |
 | 💎          | [Artulabs Limited](audit-reports/pdf/Artu_Rust_Final_Audit_Report.pdf)                                     | Airdrop, SPL Tokens      | 🦀 Solana         | Credshields               |
