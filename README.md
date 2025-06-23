@@ -17,9 +17,10 @@ For private audits or security consulting, please reach out to me on:
 ## Private Audits
 
 |             | Report                                                                                                     | Description              | Ecosystem         | Provider                  |
-| ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- |
+| ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- | --- |
 |             |
 | <b>2025</b> |
+| 👌          | Undisclosed                                                                                                | Vesting, SPL             | 🦀 Solana         | Solo                      |
 | 👌          | [Terplayer Hodl](audit-reports/pdf/Terplayer-Hodl-Security-Review.pdf)                                     | DeFi, Lending/Borrowing  | 🐻 Berachain      | Shieldify Security        |
 | 💎          | Undisclosed                                                                                                | Staking, GameFi          | 🦀 Solana / ♦ EVM | Guardian Audits           |
 | 💎          | [Power Couple Coin](audit-reports/pdf/Lottery_Contracts_Final_Audit_Report.pdf)                            | Staking, Lottery         | 🦀 Solana         | Credshields               |
@@ -31,7 +32,7 @@ For private audits or security consulting, please reach out to me on:
 | 👌          | [mew.gg](audit-reports/pdf/mew.gg_Contracts_Final_Audit_Report.pdf)                                        | AMM                      | ♦ EVM             | Credshields               |
 | 👌          | [Hemi Labs](audit-reports/pdf/Hemi_Labs_Final_Audit_Report.pdf)                                            | Vault                    | ♦ EVM             | Credshields               |
 | 📰          | [Stax](audit-reports/md/Stax-Security-Review.md)                                                           | DeFi, Staking            | ♦ EVM             | Shieldify Security        |
-| 👌          | Undisclosed                                                                                                | Defi, Staking, Vesting   | ♦ EVM             | Solo                      |
+| 👌          | Undisclosed                                                                                                | Defi, Staking, Vesting   | ♦ EVM             | Solo                      | --> |
 | 👌          | [W3.Labs](audit-reports/pdf/W3.labs_Final_Audit_Report.pdf)                                                | Staking Vault            | ♦ EVM             | Credshields               |
 | 👌          | [After Finance](audit-reports/pdf/After-Finance-Report.pdf)                                                | Lending/Borrowing, Yeild | ♦ EVM             | Arsen Blockchain Security |
 | 👌          | [BRLA Digital](audit-reports/pdf/BRLA_Final_Audit_Report.pdf)                                              | ERC20 Token Swap         | ♦ EVM             | Credshields               |
