@@ -20,6 +20,7 @@ For private audits or security consulting, please reach out to me on:
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- | --- |
 |             |
 | <b>2025</b> |
+| 👌          | [Manadotwin](audit-reports/pdf/Manadotwin Audit Final Report.pdf)                                          | Vesting, Bonding Curve   | ♦ EVM             | Credshields               |
 | 👌          | Undisclosed                                                                                                | Vesting, SPL             | 🦀 Solana         | Solo                      |
 | 👌          | [Terplayer Hodl](audit-reports/pdf/Terplayer-Hodl-Security-Review.pdf)                                     | DeFi, Lending/Borrowing  | 🐻 Berachain      | Shieldify Security        |
 | 💎          | Undisclosed                                                                                                | Staking, GameFi          | 🦀 Solana / ♦ EVM | Guardian Audits           |
