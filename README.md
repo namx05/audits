@@ -20,7 +20,7 @@ For private audits or security consulting, please reach out to me on:
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- |
 |             |
 | <b>2025</b> |
-| 👌          | [Manadotwin](audit-reports/pdf/Manadotwin Audit Final Report.pdf)                                          | Vesting, Bonding Curve   | ♦ EVM             | Credshields               |
+| 👌          | [Manadotwin](audit-reports/pdf/Manadotwin_Audit_Final_Report.pdf)                                          | Vesting, Bonding Curve   | ♦ EVM             | Credshields               |
 | 👌          | Undisclosed                                                                                                | Vesting, SPL             | 🦀 Solana         | Solo                      |
 | 👌          | [Terplayer Hodl](audit-reports/pdf/Terplayer-Hodl-Security-Review.pdf)                                     | DeFi, Lending/Borrowing  | 🐻 Berachain      | Shieldify Security        |
 | 💎          | Undisclosed                                                                                                | Staking, GameFi          | 🦀 Solana / ♦ EVM | Guardian Audits           |
@@ -59,23 +59,23 @@ For private audits or security consulting, please reach out to me on:
 | 📰          | [AllinGames: Seven Up Seven Down](audit-reports/pdf/AllInGames_Seven_Up_Seven_Down_Final_Audit_Report.pdf) | GameFi                   | 🦀 CosmWasm       | Credshields               |
 | 📰          | [AllinGames: Slot](audit-reports/pdf/AllInGames_Slots_Final_Audit_Report.pdf)                              | GameFi                   | 🦀 CosmWasm       | Credshields               |
 | 👌          | [Arcana: Browser Extenstion](audit-reports/pdf/Arcana_Wallet_Final_Audit_Report.pdf)                       | Wallet                   | Bowser Extenstion | Credshields               |
-| 📰          | [ResearchHub](audit-reports/pdf/ResearchHub_SmartContract_Final_Audit_Report.pdf)                          |                          | ♦ EVM             | Credshields               |
+| 📰          | [ResearchHub](audit-reports/pdf/ResearchHub_SmartContract_Final_Audit_Report.pdf)                          | ERC20                    | ♦ EVM             | Credshields               |
 | 📰          | [HoldPlatform V2](audit-reports/pdf/HoldPlatform_Final_Audit_Report.pdf)                                   |                          | ♦ EVM             | Credshields               |
-| 💎          | [Save Planet Earth](audit-reports/pdf/SPE_Smart_Contract_Final_Audit_Report.pdf)                           |                          | ♦ EVM             | Credshields               |
-| 👌          | [Lara Protocol](audit-reports/pdf/Lara_Liquid_Staking_Final_Audit_Report.pdf)                              |                          | ♦ EVM             | Credshields               |
+| 💎          | [Save Planet Earth](audit-reports/pdf/SPE_Smart_Contract_Final_Audit_Report.pdf)                           | DeFi                     | ♦ EVM             | Credshields               |
+| 👌          | [Lara Protocol](audit-reports/pdf/Lara_Liquid_Staking_Final_Audit_Report.pdf)                              | Staking, Vesting         | ♦ EVM             | Credshields               |
 | 👌          | [Protop Vesting](audit-reports/pdf/Protop_Vesting_Contracts_Final_Report.pdf)                              |                          | ♦ EVM             | Credshields               |
 | 👌          | [Vouch](audit-reports/pdf/Vouch_Contract_Final_Audit_Report.pdf)                                           |                          | ♦ EVM             | Credshields               |
 | 👌          | [SAN](audit-reports/pdf/SAN_Final_Report.pdf)                                                              |                          | ♦ EVM             | Credshields               |
 | 👌          | [Tribally Games](audit-reports/pdf/Tribally_Games_Final_Report.pdf)                                        |                          | ♦ EVM             | Credshields               |
-| 💎          | [Plutope](audit-reports/pdf/Plutope_Final_Audit_Report.pdf)                                                |                          | ♦ EVM             | Credshields               |
+| 💎          | [Plutope](audit-reports/pdf/Plutope_Final_Audit_Report.pdf)                                                | DeFi                     | ♦ EVM             | Credshields               |
 | 💎          | [LogX](audit-reports/pdf/LogX_Token_Final_Report.pdf)                                                      | Validator                | ♦ EVM             | Credshields               |
 | 👌          | [Kresus](audit-reports/pdf/Kresus_Final_Audit_Report.pdf)                                                  | Account Abstraction      | ♦ EVM             | Credshields               |
-| 💎          | [Rex Protocol](audit-reports/pdf/Rex_Exchange_Final_Audit_Report.pdf)                                      |                          | ♦ EVM             | Credshields               |
-| 💎          | [aUSD: Stable Jack](audit-reports/pdf/aUSD_SC_Final_Audit_Report.pdf)                                      |                          | ♦ EVM             | Credshields               |
-| 👌          | [Arcana Staking](audit-reports/pdf/Arcana_Staking_Contract_Final_Audit_Report.pdf)                         |                          | ♦ EVM             | Credshields               |
-| 💎          | [Wasset](audit-reports/pdf/Wasset_Final_Audit_Report.pdf)                                                  |                          | ♦ EVM             | Credshields               |
-| 👌          | [Numa](audit-reports/pdf/Numa_Final_Audit_Report.pdf)                                                      |                          | ♦ EVM             | Credshields               |
-| 👌          | [Hyacinth](audit-reports/md/Hyacinth-security-review.md)                                                   |                          | ♦ EVM             | Solo                      |
+| 💎          | [Rex Protocol](audit-reports/pdf/Rex_Exchange_Final_Audit_Report.pdf)                                      | DeFi, Staking            | ♦ EVM             | Credshields               |
+| 💎          | [aUSD: Stable Jack](audit-reports/pdf/aUSD_SC_Final_Audit_Report.pdf)                                      | AMM                      | ♦ EVM             | Credshields               |
+| 👌          | [Arcana Staking](audit-reports/pdf/Arcana_Staking_Contract_Final_Audit_Report.pdf)                         | Staking                  | ♦ EVM             | Credshields               |
+| 💎          | [Wasset](audit-reports/pdf/Wasset_Final_Audit_Report.pdf)                                                  | Staking, Vesting         | ♦ EVM             | Credshields               |
+| 👌          | [Numa](audit-reports/pdf/Numa_Final_Audit_Report.pdf)                                                      | DeFi, Lending/Borrowing  | ♦ EVM             | Credshields               |
+| 👌          | [Hyacinth](audit-reports/md/Hyacinth-security-review.md)                                                   | Bank, DeFi               | ♦ EVM             | Solo                      |
 | 📰          | [Protop Token](audit-reports/pdf/Protop_Token_Contract_Final_Report.pdf)                                   | ERC20                    | ♦ EVM             | Credshields               |
 | 📰          | [Tribally Token](audit-reports/pdf/Tribal_Token_Final_Report.pdf)                                          | ERC20                    | ♦ EVM             | Credshields               |
 | 📰          | [Emblium Labs Limited](audit-reports/pdf/Kaku_SmartContract_Final_Report.pdf)                              | ERC20                    | ♦ EVM             | Credshields               |
