@@ -20,6 +20,8 @@ For private audits or security consulting, please reach out to me on:
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- |
 |             |
 | <b>2025</b> |
+| 💎          | Undisclosed                                                                                                | DeFi, Router             | EVM               | Shieldify Security        |
+| 💎          | [DotLabs: Mushi](audit-reports/pdf/Mushi_V2_0_Final_Audit_Report.pdf)                                      | DeFi, Lending/Borrowing  | 🦀 Solana         | Credshields               |
 | 👌          | [Manadotwin](audit-reports/pdf/Manadotwin_Audit_Final_Report.pdf)                                          | Vesting, Bonding Curve   | ♦ EVM             | Credshields               |
 | 👌          | Undisclosed                                                                                                | Vesting, SPL             | 🦀 Solana         | Solo                      |
 | 👌          | [Terplayer Hodl](audit-reports/pdf/Terplayer-Hodl-Security-Review.pdf)                                     | DeFi, Lending/Borrowing  | 🐻 Berachain      | Shieldify Security        |
