@@ -20,12 +20,12 @@ For private audits or security consulting, please reach out to me on:
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- |
 |             |
 | <b>2025</b> |
-| 💎          | Undisclosed                                                                                                | DeFi, Router             | EVM               | Shieldify Security        |
+| 💎          | GlueX Protocol (Report Comming Soon)                                                                       | DeFi, Router             | EVM               | Shieldify Security        |
 | 💎          | [DotLabs: Mushi](audit-reports/pdf/Mushi_V2_0_Final_Audit_Report.pdf)                                      | DeFi, Lending/Borrowing  | 🦀 Solana         | Credshields               |
 | 👌          | [Manadotwin](audit-reports/pdf/Manadotwin_Audit_Final_Report.pdf)                                          | Vesting, Bonding Curve   | ♦ EVM             | Credshields               |
-| 👌          | Undisclosed                                                                                                | Vesting, SPL             | 🦀 Solana         | Solo                      |
+| 👌          | Clique Lock (Report Comming Soon)                                                                          | Vesting, SPL             | 🦀 Solana         | Safe Edge                 |
 | 👌          | [Terplayer Hodl](audit-reports/pdf/Terplayer-Hodl-Security-Review.pdf)                                     | DeFi, Lending/Borrowing  | 🐻 Berachain      | Shieldify Security        |
-| 💎          | Undisclosed                                                                                                | Staking, GameFi          | 🦀 Solana / ♦ EVM | Guardian Audits           |
+| 💎          | Ginza Gaming (Report Comming Soon)                                                                         | Staking, GameFi          | 🦀 Solana / ♦ EVM | Guardian Audits           |
 | 💎          | [Power Couple Coin](audit-reports/pdf/Lottery_Contracts_Final_Audit_Report.pdf)                            | Staking, Lottery         | 🦀 Solana         | Credshields               |
 | 💎          | [Artulabs Limited](audit-reports/pdf/Artu_Rust_Final_Audit_Report.pdf)                                     | Airdrop, SPL Tokens      | 🦀 Solana         | Credshields               |
 | 👌          | [Artulabs Limited](audit-reports/pdf/Artu_Solidity_Final_Audit_Report.pdf)                                 | Vesting, ERC20           | ♦ EVM             | Credshields               |
@@ -35,7 +35,7 @@ For private audits or security consulting, please reach out to me on:
 | 👌          | [mew.gg](audit-reports/pdf/mew.gg_Contracts_Final_Audit_Report.pdf)                                        | AMM                      | ♦ EVM             | Credshields               |
 | 👌          | [Hemi Labs](audit-reports/pdf/Hemi_Labs_Final_Audit_Report.pdf)                                            | Vault                    | ♦ EVM             | Credshields               |
 | 📰          | [Stax](audit-reports/md/Stax-Security-Review.md)                                                           | DeFi, Staking            | ♦ EVM             | Shieldify Security        |
-| 👌          | Undisclosed                                                                                                | Defi, Staking, Vesting   | ♦ EVM             | Solo                      |
+| 👌          | FLAT Protocol (Report Comming Soon)                                                                        | Defi, Staking, Vesting   | ♦ EVM             | Solo                      |
 | 👌          | [W3.Labs](audit-reports/pdf/W3.labs_Final_Audit_Report.pdf)                                                | Staking Vault            | ♦ EVM             | Credshields               |
 | 👌          | [After Finance](audit-reports/pdf/After-Finance-Report.pdf)                                                | Lending/Borrowing, Yeild | ♦ EVM             | Arsen Blockchain Security |
 | 👌          | [BRLA Digital](audit-reports/pdf/BRLA_Final_Audit_Report.pdf)                                              | ERC20 Token Swap         | ♦ EVM             | Credshields               |
