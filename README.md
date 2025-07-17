@@ -20,7 +20,7 @@ For private audits or security consulting, please reach out to me on:
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- | ------------------------- |
 |             |
 | <b>2025</b> |
-| 💎          | GlueX Protocol (Report Coming Soon)                                                                        | DeFi, Router             | EVM               | Shieldify Security        |
+| 💎          | [GlueX Protocol](audit-reports/pdf/GlueX-V2-Security-Review.pdf)                                           | DeFi, Router             | EVM               | Shieldify Security        |
 | 💎          | [DotLabs: Mushi](audit-reports/pdf/Mushi_V2_0_Final_Audit_Report.pdf)                                      | DeFi, Lending/Borrowing  | 🦀 Solana         | Credshields               |
 | 👌          | [Manadotwin](audit-reports/pdf/Manadotwin_Audit_Final_Report.pdf)                                          | Vesting, Bonding Curve   | ♦ EVM             | Credshields               |
 | 👌          | Clique Lock (Report Coming Soon)                                                                           | Vesting, SPL             | 🦀 Solana         | Safe Edge                 |
