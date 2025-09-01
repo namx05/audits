@@ -21,7 +21,7 @@ For private audits or security consulting, please reach out to me on:
 |             |
 | <b>2025</b> |
 | 💎          | [FUN Token Giveaway](audit-reports/pdf/Fun_Token_Final_Audit_Report.pdf)                                   |                                      | ♦ EVM             | <img src="icons/credshields.png" align="center" width=15 height=15> Credshields        |
-| 👌          | 🔒 Beetle Games                                                                                            | NFT Staking, GameFi                  | ♦ EVM             | <img src="icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify         |
+| 👌          | (Beetle Games)[audit-reports/pdf/Beetle-Security-Review.pdf]                                               | NFT Staking, GameFi                  | ♦ EVM             | <img src="icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify         |
 | 💎          | 🔒 Amgi Studios [Round 2]                                                                                  | Cross Chain NFT Staking              | ♦ EVM             | <img src="icons/credshields.png" align="center" width=15 height=15> Credshields        |
 | 💎          | NDA                                                                                                        | TradFi                               | 🦀 Solana         | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Crfrin                  |
 | 👌          | [Vouch](audit-reports/pdf/Vouch_Token_and_Distribution_Final_Audit_Report.pdf)                             | Tokenomics                           | ♦ EVM             | <img src="icons/credshields.png" align="center" width=15 height=15> Credshields        |
