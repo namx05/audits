@@ -20,6 +20,8 @@ For private audits or security consulting, please reach out to me on:
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------ | ----------------- | -------------------------------------------------------------------------------------- |
 |             |
 | <b>2025</b> |
+|             | 🔒 NDA                                                                                                     | Staking, Tokenomics                  | ♦ EVM             | <img src="icons/codespect.jpg" align="center" width=15 height=15> CODESPECT            |
+| 💎          | 🔒 Etherspot                                                                                               | Account Abstraction                  | ♦ EVM             | <img src="icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify         |
 | 👌          | [Safle](audit-reports/pdf/Safle_Final_Audit_Report.pdf)                                                    | Cross-Chain Registrar                | ♦ EVM             | <img src="icons/credshields.png" align="center" width=15 height=15> Credshields        |
 | 💎          | [FUN Token Giveaway](audit-reports/pdf/Fun_Token_Final_Audit_Report.pdf)                                   |                                      | ♦ EVM             | <img src="icons/credshields.png" align="center" width=15 height=15> Credshields        |
 | 👌          | [Beetle Games](audit-reports/pdf/Beetle-Security-Review.pdf)                                               | NFT Staking, GameFi                  | ♦ EVM             | <img src="icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify         |
