@@ -19,6 +19,7 @@ For private audits or security consulting, please reach out to me on:
 | ----------- | ---------------------------------------------------------------------------------------- | ------------------------------------ | ----------------- | -------------------------------------------------------------------------------------- |
 |             |
 | <b>2025</b> |
+| 👌          | [Mandala](audit-reports/pdf/Mandala_Presale_2_Final_Report.pdf)                          | Launchpad                            | ♦ EVM             | <img src="icons/credshields.png" align="center" width=15 height=15> Credshields        |
 | 👌          | [Wager Program ](audit-reports/pdf/WAGER_PROGRAM_SMART_CONTRACT_AUDIT.pdf)               | GameFi                               | 🦀 Solana         | <img src="icons/namx05.jpg" align="center" width=15 height=15> Solo                    |
 | 👌          | [Better Bank](audit-reports/pdf/032_CODESPECT_BETTERBANK.pdf)                            | Lending & Borrowing                  | ♦ EVM             | <img src="icons/codespect.jpg" align="center" width=15 height=15> CODESPECT            |
 | 💎          | [Etherspot: GTP Module](audit-reports/pdf/Etherspot-GTP-Module-Security-Review.pdf)      | Account Abstraction, Paymaster       | ♦ EVM             | <img src="icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify         |
