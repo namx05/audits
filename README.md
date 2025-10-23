@@ -1,6 +1,6 @@
 ## About:
 
-I'm security researcher specialized in **Solidity** and **Rust** (Solana, CosmWasm) audits. Conducted 125+ private audits in which **25+** was **Rust audits 🦀**. I've found **210+ Critical/High** so far.
+I'm security researcher specialized in **Solidity** and **Rust** audits. Conducted 150+ audits in which **25+** was **Rust audits 🦀**. I've found **300+ Critical/High** so far.
 
 For private audits or security consulting, please reach out to me on:
 
@@ -10,8 +10,8 @@ For private audits or security consulting, please reach out to me on:
 ---
 
 > [!TIP]
-> The most interesting reports are marked 💎,
-> mildly interesting as 👌 and
+> 💎: Interesting reports, worth reading <br>
+> 👌: Mildly interesting, common pattern bugs
 
 ## Private Audits
 
@@ -19,8 +19,13 @@ For private audits or security consulting, please reach out to me on:
 | ----------- | ---------------------------------------------------------------------------------------- | --------------------------------------- | ----------------- | -------------------------------------------------------------------------------------- |
 |             |
 | <b>2025</b> |
+|             |
+| -           | 🔒 Undisclosed                                                                           | AMM, Staking                            | ♦ EVM             | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
+| 💎          | 🔒 Undisclosed                                                                           | GameFi                                  | 🦀 Solana         | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
+| 💎          | 🔒 N4T                                                                                   | Launchpad                               | ♦ EVM             | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
+| 👌          | 🔒 Emergence Art                                                                         | NFT Sale                                | ♦ EVM             | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | 👌          | 🔒 Centrifuge                                                                            | Cross Chain AMM                         | ♦ EVM             | <img src="icons/burrasec.jpg" align="center" width=15 height=15> BurraSec              |
-| 👌          | [Vrine](audit-reports/pdf/Vrine-Smart-Contract-Audit-Report-Final-Report-v2.pdf)         | Presale Launchpad                       | ♦ EVM             | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
+| 👌          | [Vrine](audit-reports/pdf/Vrine-Smart-Contract-Audit-Report-Final-Report-v2.pdf)         | Presale, Launchpad                      | ♦ EVM             | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | 👌          | [Mandala](audit-reports/pdf/Mandala_Presale_2_Final_Report.pdf)                          | Launchpad                               | ♦ EVM             | <img src="icons/credshields.png" align="center" width=15 height=15> Credshields        |
 | 👌          | [Wager Program ](audit-reports/pdf/WAGER_PROGRAM_SMART_CONTRACT_AUDIT.pdf)               | GameFi                                  | 🦀 Solana         | <img src="icons/namx05.jpg" align="center" width=15 height=15> Solo                    |
 | 👌          | [Better Bank](audit-reports/pdf/032_CODESPECT_BETTERBANK.pdf)                            | Lending & Borrowing                     | ♦ EVM             | <img src="icons/codespect.jpg" align="center" width=15 height=15> CODESPECT            |
@@ -29,7 +34,7 @@ For private audits or security consulting, please reach out to me on:
 | 💎          | [FUN Token Giveaway](audit-reports/pdf/Fun_Token_Final_Audit_Report.pdf)                 |                                         | ♦ EVM             | <img src="icons/credshields.png" align="center" width=15 height=15> Credshields        |
 | 👌          | [Beetle Games](audit-reports/pdf/Beetle-Security-Review.pdf)                             | NFT Staking, GameFi                     | ♦ EVM             | <img src="icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify         |
 | 💎          | 🔒 Amgi Studios [Round 2]                                                                | Cross Chain NFT Staking                 | ♦ EVM             | <img src="icons/credshields.png" align="center" width=15 height=15> Credshields        |
-| 💎          | NDA                                                                                      | TradFi                                  | 🦀 Solana         | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Crfrin                  |
+| 💎          | 🔒 Private                                                                               | TradFi                                  | 🦀 Solana         | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
 | 👌          | [Vouch](audit-reports/pdf/Vouch_Token_and_Distribution_Final_Audit_Report.pdf)           | Tokenomics                              | ♦ EVM             | <img src="icons/credshields.png" align="center" width=15 height=15> Credshields        |
 | 👌          | [Zodor](audit-reports/pdf/Zodor_Staking_Final_Audit_Report.pdf)                          | Staking                                 | ♦ EVM             | <img src="icons/credshields.png" align="center" width=15 height=15> Credshields        |
 | 💎          | [Taco Studios: Okidori](audit-reports/pdf/Okidori_Final_Audit_Report.pdf)                | NFT Tokonomics, Marketplace, Royalty    | ♦ EVM             | <img src="icons/credshields.png" align="center" width=15 height=15> Credshields        |
@@ -95,8 +100,6 @@ For private audits or security consulting, please reach out to me on:
 | 👌          | [Hyacinth](audit-reports/md/Hyacinth-security-review.md)                                 | Bank, DeFi                              | ♦ EVM             | <img src="icons/namx05.jpg" align="center" width=15 height=15> Solo                    |
 
 ## Public Audits:
-
-Public Contest portfolio by [`Sherlock`](https://audits.sherlock.xyz/watson/namx05)
 
 | Rank | Report                                                                                                                                                                                           | Description       | Critical/High | Medium | Lang-Ecosystem |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------- | ------ | -------------- |
