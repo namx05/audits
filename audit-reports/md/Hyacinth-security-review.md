@@ -5,6 +5,7 @@
 | Severity      | Bug Count |
 | ------------- | --------- |
 | Critical      | 2         |
+| High          | 0         |
 | Medium        | 2         |
 | Low           | 1         |
 | Informational | 1         |
