@@ -1,4 +1,4 @@
-## About naman <img src="https://github.com/namx05/audits/blob/main/icons/namx05.jpg" align="center" width=15 height=15>:
+# About naman:
 
 - I am an independent security researcher with focused expertise in auditing **Solidity**, **Rust** based contracts and decentralized infrastructure across leading blockchain ecosystems, including **EVM**, **Solana**, **Cosmos** **(CosmWasm)**.
 - With over 150+ reviews conducted across public, private, and firm engagements in which **25+** was **Rust audits 🦀**, I have audited a diverse range of DeFi protocols, including DEXs, Amm, GameFi, TradeFi, Account Abstraction, DeFi, order books, cross-chain, bridges, Launchpads and bonding curves.
@@ -11,11 +11,11 @@ For private audits or security consulting, please reach out to me on via:
 
 ---
 
-# Summary
+## Summary
 
 |   Crit/High    | Medium risk | [Public Audits](#public-audits) | [Private Audits](#private-audits) |
 | :------------: | :---------: | :-----------------------------: | :-------------------------------: |
-| 420+ Crit/High | 280+ Medium |                8                |                142                |
+| 420+ Crit/High | 280+ Medium |                8                |                147                |
 
 ## naman 🤝 Firm Engagement Review
 
@@ -120,3 +120,4 @@ For private audits or security consulting, please reach out to me on via:
 | 177  | <img src="icons/codehawks.jpg" align="center" width=15 height=15> Tadle                      | Bridge                | ♦ EVM          | [1 Medium ](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)        |
 | 39   | <img src="icons/c4.png" align="center" width=15 height=15> Trait Forge                       | GameFi                | ♦ EVM          | [1 High ](https://code4rena.com/audits/2024-07-traitforge)                                                                  |
 | 89   | <img src="icons/c4.png" align="center" width=15 height=15> Pool Together                     | Staking, Yeild        | ♦ EVM          | [1 Medium ](https://code4rena.com/audits/2023-07-pooltogether)                                                              |
+
