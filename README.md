@@ -1,7 +1,7 @@
 # About naman:
 
-- I am an independent security researcher with focused expertise in auditing **Solidity**, **Rust** based contracts and decentralized infrastructure across leading blockchain ecosystems, including **EVM**, **Solana**, **Cosmos** **(CosmWasm)**.
-- With over 150+ reviews conducted across public, private, and firm engagements in which **25+** was **Rust audits 🦀**, I have audited a diverse range of DeFi protocols, including DEXs, Amm, GameFi, TradeFi, Account Abstraction, DeFi, order books, cross-chain, bridges, Launchpads and bonding curves.
+- He's an independent security researcher with focused expertise in auditing **Solidity**, **Rust** based contracts and decentralized infrastructure across leading blockchain ecosystems, including **EVM**, **Solana**, **Cosmos** **(CosmWasm)**.
+- With over 150+ reviews conducted across public, private, and firm engagements in which **30** was **Rust audits 🦀**. Have audited a diverse range of DeFi protocols, including DEXs, AMMs, GameFi, TradeFi, Account Abstraction, DeFi, order books, cross-chain, bridges, Launchpads and bonding curves.
 - He is trusted by: <img src="https://github.com/namx05/audits/blob/main/icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin, <img src="https://github.com/namx05/audits/blob/main/icons/guardianaudits.jpg" align="center" width=15 height=15> Guardian, <img src="https://github.com/namx05/audits/blob/main/icons/credshields.png" align="center" width=15 height=15> Credshields , <img src="https://github.com/namx05/audits/blob/main/icons/codespect.jpg" align="center" width=15 height=15> CODESPECT , <img src="https://github.com/namx05/audits/blob/main/icons/burrasec.jpg" align="center" width=15 height=15> BurraSec, <img src="https://github.com/namx05/audits/blob/main/icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify, <img src="https://github.com/namx05/audits/blob/main/icons/hashlock.jpg" align="center" width=15 height=15> Hashlock, and <img src="https://github.com/namx05/audits/blob/main/icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges.
 
 For private audits or security consulting, please reach out to me on via:
@@ -15,17 +15,18 @@ For private audits or security consulting, please reach out to me on via:
 
 |   Crit/High    | Medium risk | [Public Audits](#public-audits) | [Private Audits](#private-audits) |
 | :------------: | :---------: | :-----------------------------: | :-------------------------------: |
-| 420+ Crit/High | 280+ Medium |                8                |                147                |
+| 330+ Crit/High | 300+ Medium |                8                |                148                |
 
 ## naman 🤝 Firm Engagement Review
 
 | Protocol              | Description                    | Ecosystem         | Report / Findings                                                                                  | Provider                                                                               |
 | --------------------- | ------------------------------ | ----------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| <u><b>2025 </b> </u> |
-| Private               | TradeFi                        | 🦀 Solana         | 🔒                                                                                                 | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
-| Private               | TradeFi                        | 🦀 Solana         | 🔒                                                                                                 | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
-| Private               | AMM, Staking                   | ♦ EVM             | 🔒                                                                                                 | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
-| Private               | GameFi                         | 🦀 Solana         | 🔒                                                                                                 | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
+| <u><b>2025 </b> </u>  |
+| Clique Lock           | Merkle Distributor             | 🦀 Solana         | 🔒                                                                                                 | <img src="icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges           |
+| Redacted              | TradeFi, SPL Whitelisting      | 🦀 Solana         | 🔒                                                                                                 | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
+| Redacted              | TradeFi                        | 🦀 Solana         | 🔒                                                                                                 | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
+| dTrinity              | AMM, Staking                   | ♦ EVM             | 🔒                                                                                                 | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
+| Redacted              | GameFi                         | 🦀 Solana         | 🔒                                                                                                 | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
 | N4T                   | Launchpad                      | ♦ EVM             | 🔒                                                                                                 | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | Emergence Art         | NFT Sale                       | ♦ EVM             | [2 High, 2 Medium](audit-reports/pdf/Emergence.art-Smart-Contract-Audit-Report-Final-Repot-v2.pdf) | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | Centrifuge            | Cross Chain, AMM               | ♦ EVM             | 🔒                                                                                                 | <img src="icons/burrasec.jpg" align="center" width=15 height=15> BurraSec              |
@@ -34,7 +35,7 @@ For private audits or security consulting, please reach out to me on via:
 | Better Bank           | Lending                        | ♦ EVM             | [6 Medium](audit-reports/pdf/032_CODESPECT_BETTERBANK.pdf)                                         | <img src="icons/codespect.jpg" align="center" width=15 height=15> CODESPECT            |
 | Etherspot: GTP Module | Account Abstraction, Paymaster | ♦ EVM             | [1 Critical, 3 High, 6 Medium](audit-reports/pdf/Etherspot-GTP-Module-Security-Review.pdf)         | <img src="icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify         |
 | Beetle Games          | NFT Staking, GameFi            | ♦ EVM             | [1 Critical, 1 Medium](audit-reports/pdf/Beetle-Security-Review.pdf)                               | <img src="icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify         |
-| Private               | TradFi                         | 🦀 Solana         | [-]                                                                                                | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
+| Redacted              | TradFi                         | 🦀 Solana         | 🔒                                                                                                 | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
 | GlueX Protocol        | DeFi, Router                   | ♦ EVM             | [3 High, 2 Medium](audit-reports/pdf/GlueX-V2-Security-Review.pdf)                                 | <img src="icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify         |
 | Clique Lock           | Vesting, SPL                   | 🦀 Solana         | 🔒 [4 Medium]                                                                                      | <img src="icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges           |
 | Terplayer Hodl        | DeFi, Lending/Borrowing        | 🐻 Berachain      | [1 Medium](audit-reports/pdf/Terplayer-Hodl-Security-Review.pdf)                                   | <img src="icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify         |
@@ -46,7 +47,7 @@ For private audits or security consulting, please reach out to me on via:
 
 | Protocol                           | Description                             | Ecosystem         | Report / Findings                                                                             |
 | ---------------------------------- | --------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------- |
-| <u><b>2025 </b> </u>              |
+| <u><b>2025 </b> </u>               |
 | Mandala                            | Launchpad                               | ♦ EVM             | [1 High](audit-reports/pdf/Mandala_Presale_2_Final_Report.pdf)                                |
 | Safle                              | Cross Chain Registrar                   | ♦ EVM             | [2 Critical, 1 High, 3 Medium](audit-reports/pdf/Safle_Final_Audit_Report.pdf)                |
 | FUN Token Giveaway                 |                                         | ♦ EVM             | [11 Critical, 7 High, 4 Medium](audit-reports/pdf/Fun_Token_Final_Audit_Report.pdf)           |
@@ -74,7 +75,7 @@ For private audits or security consulting, please reach out to me on via:
 | BRLA Digital                       | AMM                                     | ♦ EVM             | [2 Critical, 4 Medium](audit-reports/pdf/BRLA_Final_Audit_Report.pdf)                         |
 | Metaco Intelligence Corporation    | Restaking                               | ♦ EVM             | [1 Critical, 2 High, 3 Medium](audit-reports/pdf/Zoth_Final_Audit_Report.pdf)                 |
 | Landslide                          | ICM (interchain Messaging), Cross Chain | ♦ EVM             | [4 Critical, 3 High, 1 Medium](audit-reports/pdf/Landslide_Final_Audit_Report.pdf)            |
-| <u><b>2024 </b> </u>              |
+| <u><b>2024 </b> </u>               |
 | Superbots                          | Trading Vault                           | ♦ EVM             | 🔒 [3 Critical, 2 High, 5 Medium]                                                             |
 | AllinGames: Bacarrat               | GameFi                                  | 🦀 CosmWasm       | [1 Medium](audit-reports/pdf/AllInGames_Baccarat_Final_Audit_Report.pdf)                      |
 | AllinGames: Bank                   | GameFi                                  | 🦀 CosmWasm       | [4 Critical, 5 Medium](audit-reports/pdf/AllInGames_Bank_Final_Audit_Report.pdf)              |
@@ -120,4 +121,3 @@ For private audits or security consulting, please reach out to me on via:
 | 177  | <img src="icons/codehawks.jpg" align="center" width=15 height=15> Tadle                      | Bridge                | ♦ EVM          | [1 Medium ](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)        |
 | 39   | <img src="icons/c4.png" align="center" width=15 height=15> Trait Forge                       | GameFi                | ♦ EVM          | [1 High ](https://code4rena.com/audits/2024-07-traitforge)                                                                  |
 | 89   | <img src="icons/c4.png" align="center" width=15 height=15> Pool Together                     | Staking, Yeild        | ♦ EVM          | [1 Medium ](https://code4rena.com/audits/2023-07-pooltogether)                                                              |
-
