@@ -48,6 +48,9 @@ For private audits or security consulting, please reach out to me on via:
 | Protocol                           | Description                             | Ecosystem         | Report / Findings                                                                             |
 | ---------------------------------- | --------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------- |
 | <u><b>2025 </b> </u>               |
+| Vouch                              | Staking                                 | ♦ EVM             | [1 Critical, 2 High, 2 Medium](audit-reports/pdf/Vouch_Staking_Final_Audit_Report.pdf)        |
+| Capx: Onramp Bridge                | Bridge                                  | ♦ EVM             | [2 Low](audit-reports/pdf/Capx_Onramp_Bridge_Final_Audit_Report.pdf)                          |
+| Capx Launchpad                     | Launchpad                               | ♦ EVM             | [4 Low](audit-reports/pdf/Capx_Launchpad_Final_Audit_Report.pdf)                              |
 | Mandala                            | Launchpad                               | ♦ EVM             | [1 High](audit-reports/pdf/Mandala_Presale_2_Final_Report.pdf)                                |
 | Safle                              | Cross Chain Registrar                   | ♦ EVM             | [2 Critical, 1 High, 3 Medium](audit-reports/pdf/Safle_Final_Audit_Report.pdf)                |
 | FUN Token Giveaway                 |                                         | ♦ EVM             | [11 Critical, 7 High, 4 Medium](audit-reports/pdf/Fun_Token_Final_Audit_Report.pdf)           |
