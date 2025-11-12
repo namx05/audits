@@ -45,71 +45,73 @@ For private audits or security consulting, please reach out to me on via:
 
 ## naman 🤝 Credshields Review
 
-| Protocol                           | Description                             | Ecosystem         | Report / Findings                                                                             |
-| ---------------------------------- | --------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------- |
-| <u><b>2025 </b> </u>               |
-| Vouch                              | Staking                                 | ♦ EVM             | [1 Critical, 2 High, 2 Medium](audit-reports/pdf/Vouch_Staking_Final_Audit_Report.pdf)        |
-| Capx: Onramp Bridge                | Bridge                                  | ♦ EVM             | [2 Low](audit-reports/pdf/Capx_Onramp_Bridge_Final_Audit_Report.pdf)                          |
-| Capx Launchpad                     | Launchpad                               | ♦ EVM             | [4 Low](audit-reports/pdf/Capx_Launchpad_Final_Audit_Report.pdf)                              |
-| Mandala                            | Launchpad                               | ♦ EVM             | [1 High](audit-reports/pdf/Mandala_Presale_2_Final_Report.pdf)                                |
-| Safle                              | Cross Chain Registrar                   | ♦ EVM             | [2 Critical, 1 High, 3 Medium](audit-reports/pdf/Safle_Final_Audit_Report.pdf)                |
-| FUN Token Giveaway                 |                                         | ♦ EVM             | [11 Critical, 7 High, 4 Medium](audit-reports/pdf/Fun_Token_Final_Audit_Report.pdf)           |
-| Amgi Studios Round 2               | Cross Chain, Staking                    | ♦ EVM             | 🔒 [7 Critical, 2 High, 2 Medium]                                                             |
-| Vouch                              | Tokenomics                              | ♦ EVM             | [2 Critical, 5 Medium](audit-reports/pdf/Vouch_Token_and_Distribution_Final_Audit_Report.pdf) |
-| Zodor                              | Staking                                 | ♦ EVM             | [2 Critical, 1 Medium](audit-reports/pdf/Zodor_Staking_Final_Audit_Report.pdf)                |
-| Taco Studios: Okidori              | NFT Tokonomics, Marketplace             | ♦ EVM             | [2 Critical, 1 High, 1 Medium](audit-reports/pdf/Okidori_Final_Audit_Report.pdf)              |
-| Tarmiiz                            | Staking Vault                           | ♦ EVM             | [2 Critical, 3 High, 5 Medium](audit-reports/pdf/Tarmiiz_Final_Audit_Report.pdf)              |
-| Amgi Studios                       | Cross Chain NFT Staking                 | ♦ EVM             | 🔒[16 Critical, 7 High, 7 Medium]                                                             |
-| DotLabs: Mushi                     | DeFi, Lending                           | 🦀 Solana         | [1 Critical, 3 High, 4 Medium](audit-reports/pdf/Mushi_V2_0_Final_Audit_Report.pdf)           |
-| Manadotwin                         | Vesting, Bonding Curve                  | ♦ EVM             | [2 Critical, 1 High, 2 Medium](audit-reports/pdf/Manadotwin_Audit_Final_Report.pdf)           |
-| Amgi Studios                       | NFT Staking, Tokenomics                 | ♦ EVM             | 🔒 [4 Critical, 3 High, 2 Medium]                                                             |
-| Real Proton                        | Tokenomics                              | ♦ EVM             | 🔒 [4 Critical, 3 High, 4 Medium]                                                             |
-| Power Couple Coin: Staking Panelty | Staking                                 | 🦀 Solana         | 🔒 [4 Critical, 1 Medium]                                                                     |
-| Power Couple Coin: Staking         | Staking                                 | 🦀 Solana         | 🔒 [4 Critical, 2 Medium]                                                                     |
-| Power Couple Coin: Selltax         | DeFi                                    | 🦀 Solana         | 🔒 [6 Critical, 2 Medium]                                                                     |
-| Power Couple Coin: Lottery         | Staking, Lottery                        | 🦀 Solana         | [6 Critical, 1 High, 3 Medium](audit-reports/pdf/Lottery_Contracts_Final_Audit_Report.pdf)    |
-| Artulabs Limited                   | Airdrop, SPL Tokens                     | 🦀 Solana         | [1 Critical, 3 High, 3 Medium](audit-reports/pdf/Artu_Rust_Final_Audit_Report.pdf)            |
-| Artulabs Limited                   | Vesting, ERC20                          | ♦ EVM             | [1 High, 2 Medium](audit-reports/pdf/Artu_Solidity_Final_Audit_Report.pdf)                    |
-| LERN360                            | ERC20                                   | ♦ EVM             | [2 High](audit-reports/pdf/LERNToken_Final_Audit_Report.pdf)                                  |
-| Fomodotbiz                         | AMM, Bonding Curve                      | ♦ EVM             | [3 Critical, 3 Medium](audit-reports/pdf/Fomodotbiz_Final_Audit_Report.pdf)                   |
-| mew.gg                             | AMM                                     | ♦ EVM             | [1 High](audit-reports/pdf/mew.gg_Contracts_Final_Audit_Report.pdf)                           |
-| Hemi Labs                          | Vault                                   | ♦ EVM             | [1 High, 3 Medium](audit-reports/pdf/Hemi_Labs_Final_Audit_Report.pdf)                        |
-| W3.Labs                            | Staking Vault                           | ♦ EVM             | [4 Medium](audit-reports/pdf/W3.labs_Final_Audit_Report.pdf)                                  |
-| BRLA Digital                       | AMM                                     | ♦ EVM             | [2 Critical, 4 Medium](audit-reports/pdf/BRLA_Final_Audit_Report.pdf)                         |
-| Metaco Intelligence Corporation    | Restaking                               | ♦ EVM             | [1 Critical, 2 High, 3 Medium](audit-reports/pdf/Zoth_Final_Audit_Report.pdf)                 |
-| Landslide                          | ICM (interchain Messaging), Cross Chain | ♦ EVM             | [4 Critical, 3 High, 1 Medium](audit-reports/pdf/Landslide_Final_Audit_Report.pdf)            |
-| <u><b>2024 </b> </u>               |
-| Superbots                          | Trading Vault                           | ♦ EVM             | 🔒 [3 Critical, 2 High, 5 Medium]                                                             |
-| AllinGames: Bacarrat               | GameFi                                  | 🦀 CosmWasm       | [1 Medium](audit-reports/pdf/AllInGames_Baccarat_Final_Audit_Report.pdf)                      |
-| AllinGames: Bank                   | GameFi                                  | 🦀 CosmWasm       | [4 Critical, 5 Medium](audit-reports/pdf/AllInGames_Bank_Final_Audit_Report.pdf)              |
-| AllinGames: Classic                | GameFi                                  | 🦀 CosmWasm       | [1 Critical, 1 Medium](audit-reports/pdf/AllInGames_Classic_Dice_Final_Audit_Report.pdf)      |
-| AllinGames: Coin Flip              | GameFi                                  | 🦀 CosmWasm       | [1 Critical, 1 High](audit-reports/pdf/AllInGames_Coin_Flip_Final_Audit_Report.pdf)           |
-| AllinGames: Hash Dice              | GameFi                                  | 🦀 CosmWasm       | [1 Critical, 1 High](audit-reports/pdf/AllInGames_Hash_Dice_Final_Audit_Report.pdf)           |
-| AllinGames: Limbo                  | GameFi                                  | 🦀 CosmWasm       | [2 Medium](audit-reports/pdf/AllInGames_Limbo_Final_Audit_Report.pdf)                         |
-| AllinGames: Lottery                | GameFi                                  | 🦀 CosmWasm       | [2 Critical, 1 Medium](audit-reports/pdf/AllInGames_Lottery_Final_Audit_Report.pdf)           |
-| Arcana: Browser Extenstion         | Wallet                                  | Bowser Extenstion | [1 Medium](audit-reports/pdf/Arcana_Wallet_Final_Audit_Report.pdf)                            |
-| AllinGames: Exchange V2            | GameFi                                  | 🦀 CosmWasm       | 🔒 [5 Critical,4 Medium]                                                                      |
-| Arcana: Vault                      | ERC4626, Vault                          | ♦ EVM             | 🔒 [1 High, 3 Medium]                                                                         |
-| Dojima                             | DLT, Omni Chain                         | Go                | 🔒 [1 Critical, 1 High, 6 Medium]                                                             |
-| Save Planet Earth                  | DeFi                                    | ♦ EVM             | [2 Critical, 1 High,2 Medium](audit-reports/pdf/SPE_Smart_Contract_Final_Audit_Report.pdf)    |
-| Lara Protocol                      | Staking, Vesting                        | ♦ EVM             | [5 Medium](audit-reports/pdf/Lara_Liquid_Staking_Final_Audit_Report.pdf)                      |
-| Dojima                             | Omni Chain                              | 🦀 Solana         | 🔒 [3 High, 4 Medium]                                                                         |
-| Lendtroller                        | Cross Chain                             | ♦ EVM             | 🔒 [2 Critical, 1 High, 3 Medium]                                                             |
-| Balance                            | Airdrop, Tokenomics                     | ♦ EVM             | 🔒 [1 Critical, 2 High, 4 Medium]                                                             |
-| Dojima                             | Omni Chain, Cross Chain                 | ♦ EVM             | 🔒 [5 Critical, 7 High, 3 Medium]                                                             |
-| Protop Vesting                     |                                         | ♦ EVM             | [1 Critical](audit-reports/pdf/Protop_Vesting_Contracts_Final_Report.pdf)                     |
-| Vouch                              |                                         | ♦ EVM             | [1 High, 1 Medium](audit-reports/pdf/Vouch_Contract_Final_Audit_Report.pdf)                   |
-| SAN                                |                                         | ♦ EVM             | [1 High, 4 Medium](audit-reports/pdf/SAN_Final_Report.pdf)                                    |
-| Registrar                          | ENS                                     | ♦ EVM             | 🔒 [2 Medium]                                                                                 |
-| Tribally Games                     |                                         | ♦ EVM             | [1 High](audit-reports/pdf/Tribally_Games_Final_Report.pdf)                                   |
-| Plutope                            | DeFi                                    | ♦ EVM             | [2 Critical, 5 Medium](audit-reports/pdf/Plutope_Final_Audit_Report.pdf)                      |
-| LogX                               | Validator                               | ♦ EVM             | [3 Critical, 2 High, 2 Medium](audit-reports/pdf/LogX_Token_Final_Report.pdf)                 |
-| Kresus                             | Account Abstraction                     | ♦ EVM             | [1 Critical, 1 High, 1 Medium](audit-reports/pdf/Kresus_Final_Audit_Report.pdf)               |
-| Rex Protocol                       | DeFi, Staking                           | ♦ EVM             | [1 Critical, 5 High, 4 Medium](audit-reports/pdf/Rex_Exchange_Final_Audit_Report.pdf)         |
-| aUSD: Stable Jack                  | AMM                                     | ♦ EVM             | [3 Critical, 2 High, 11 Medium](audit-reports/pdf/aUSD_SC_Final_Audit_Report.pdf)             |
-| Arcana Staking                     | Staking                                 | ♦ EVM             | [1 High](audit-reports/pdf/Arcana_Staking_Contract_Final_Audit_Report.pdf)                    |
-| Wasset                             | Staking, Vesting                        | ♦ EVM             | [2 Critical, 3 Medium](audit-reports/pdf/Wasset_Final_Audit_Report.pdf)                       |
-| Numa                               | DeFi, Lending                           | ♦ EVM             | [1 Medium](audit-reports/pdf/Numa_Final_Audit_Report.pdf)                                     |
+| Protocol                        | Description                             | Ecosystem         | Report / Findings                                                                             |
+| ------------------------------- | --------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------- |
+| <u><b>2025 </b> </u>            |
+| Okidori: Boosterpack            | NFT Rewards                             | ♦ EVM             | [1 High, 4 Medium](audit-reports/pdf/Vouch_Staking_Final_Audit_Report.pdf)                    |
+| LERN360                         | Staking                                 | ♦ EVM             | [6 Critical, 10 High, 8 Medium](audit-reports/pdf/Vouch_Staking_Final_Audit_Report.pdf)       |
+| Vouch                           | Staking                                 | ♦ EVM             | [1 Critical, 2 High, 2 Medium](audit-reports/pdf/Vouch_Staking_Final_Audit_Report.pdf)        |
+| Capx: Onramp Bridge             | Bridge                                  | ♦ EVM             | [2 Low](audit-reports/pdf/Capx_Onramp_Bridge_Final_Audit_Report.pdf)                          |
+| Capx Launchpad                  | Launchpad                               | ♦ EVM             | [4 Low](audit-reports/pdf/Capx_Launchpad_Final_Audit_Report.pdf)                              |
+| Mandala                         | Launchpad                               | ♦ EVM             | [1 High](audit-reports/pdf/Mandala_Presale_2_Final_Report.pdf)                                |
+| Safle                           | Cross Chain Registrar                   | ♦ EVM             | [2 Critical, 1 High, 3 Medium](audit-reports/pdf/Safle_Final_Audit_Report.pdf)                |
+| FUN Token Giveaway              |                                         | ♦ EVM             | [11 Critical, 7 High, 4 Medium](audit-reports/pdf/Fun_Token_Final_Audit_Report.pdf)           |
+| Amgi Studios Round 2            | Cross Chain, Staking                    | ♦ EVM             | 🔒 [7 Critical, 2 High, 2 Medium]                                                             |
+| Vouch                           | Tokenomics                              | ♦ EVM             | [2 Critical, 5 Medium](audit-reports/pdf/Vouch_Token_and_Distribution_Final_Audit_Report.pdf) |
+| Zodor                           | Staking                                 | ♦ EVM             | [2 Critical, 1 Medium](audit-reports/pdf/Zodor_Staking_Final_Audit_Report.pdf)                |
+| Taco Studios: Okidori           | NFT Tokonomics, Marketplace             | ♦ EVM             | [2 Critical, 1 High, 1 Medium](audit-reports/pdf/Okidori_Final_Audit_Report.pdf)              |
+| Tarmiiz                         | Staking Vault                           | ♦ EVM             | [2 Critical, 3 High, 5 Medium](audit-reports/pdf/Tarmiiz_Final_Audit_Report.pdf)              |
+| Amgi Studios                    | Cross Chain NFT Staking                 | ♦ EVM             | 🔒[16 Critical, 7 High, 7 Medium]                                                             |
+| DotLabs: Mushi                  | DeFi, Lending                           | 🦀 Solana         | [1 Critical, 3 High, 4 Medium](audit-reports/pdf/Mushi_V2_0_Final_Audit_Report.pdf)           |
+| Manadotwin                      | Vesting, Bonding Curve                  | ♦ EVM             | [2 Critical, 1 High, 2 Medium](audit-reports/pdf/Manadotwin_Audit_Final_Report.pdf)           |
+| Amgi Studios                    | NFT Staking, Tokenomics                 | ♦ EVM             | 🔒 [4 Critical, 3 High, 2 Medium]                                                             |
+| Real Proton                     | Tokenomics                              | ♦ EVM             | 🔒 [4 Critical, 3 High, 4 Medium]                                                             |
+| PCC: Staking Panelty            | Staking                                 | 🦀 Solana         | 🔒 [4 Critical, 1 Medium]                                                                     |
+| PCC: Staking                    | Staking                                 | 🦀 Solana         | 🔒 [4 Critical, 2 Medium]                                                                     |
+| PCC: Selltax                    | DeFi                                    | 🦀 Solana         | 🔒 [6 Critical, 2 Medium]                                                                     |
+| PCC: Lottery                    | Staking, Lottery                        | 🦀 Solana         | [6 Critical, 1 High, 3 Medium](audit-reports/pdf/Lottery_Contracts_Final_Audit_Report.pdf)    |
+| Artulabs Limited                | Airdrop, SPL Tokens                     | 🦀 Solana         | [1 Critical, 3 High, 3 Medium](audit-reports/pdf/Artu_Rust_Final_Audit_Report.pdf)            |
+| Artulabs Limited                | Vesting, ERC20                          | ♦ EVM             | [1 High, 2 Medium](audit-reports/pdf/Artu_Solidity_Final_Audit_Report.pdf)                    |
+| LERN360                         | ERC20                                   | ♦ EVM             | [2 High](audit-reports/pdf/LERNToken_Final_Audit_Report.pdf)                                  |
+| Fomodotbiz                      | AMM, Bonding Curve                      | ♦ EVM             | [3 Critical, 3 Medium](audit-reports/pdf/Fomodotbiz_Final_Audit_Report.pdf)                   |
+| mew.gg                          | AMM                                     | ♦ EVM             | [1 High](audit-reports/pdf/mew.gg_Contracts_Final_Audit_Report.pdf)                           |
+| Hemi Labs                       | Vault                                   | ♦ EVM             | [1 High, 3 Medium](audit-reports/pdf/Hemi_Labs_Final_Audit_Report.pdf)                        |
+| W3.Labs                         | Staking Vault                           | ♦ EVM             | [4 Medium](audit-reports/pdf/W3.labs_Final_Audit_Report.pdf)                                  |
+| BRLA Digital                    | AMM                                     | ♦ EVM             | [2 Critical, 4 Medium](audit-reports/pdf/BRLA_Final_Audit_Report.pdf)                         |
+| Metaco Intelligence Corporation | Restaking                               | ♦ EVM             | [1 Critical, 2 High, 3 Medium](audit-reports/pdf/Zoth_Final_Audit_Report.pdf)                 |
+| Landslide                       | ICM (interchain Messaging), Cross Chain | ♦ EVM             | [4 Critical, 3 High, 1 Medium](audit-reports/pdf/Landslide_Final_Audit_Report.pdf)            |
+| <u><b>2024 </b> </u>            |
+| Superbots                       | Trading Vault                           | ♦ EVM             | 🔒 [3 Critical, 2 High, 5 Medium]                                                             |
+| AllinGames: Bacarrat            | GameFi                                  | 🦀 CosmWasm       | [1 Medium](audit-reports/pdf/AllInGames_Baccarat_Final_Audit_Report.pdf)                      |
+| AllinGames: Bank                | GameFi                                  | 🦀 CosmWasm       | [4 Critical, 5 Medium](audit-reports/pdf/AllInGames_Bank_Final_Audit_Report.pdf)              |
+| AllinGames: Classic             | GameFi                                  | 🦀 CosmWasm       | [1 Critical, 1 Medium](audit-reports/pdf/AllInGames_Classic_Dice_Final_Audit_Report.pdf)      |
+| AllinGames: Coin Flip           | GameFi                                  | 🦀 CosmWasm       | [1 Critical, 1 High](audit-reports/pdf/AllInGames_Coin_Flip_Final_Audit_Report.pdf)           |
+| AllinGames: Hash Dice           | GameFi                                  | 🦀 CosmWasm       | [1 Critical, 1 High](audit-reports/pdf/AllInGames_Hash_Dice_Final_Audit_Report.pdf)           |
+| AllinGames: Limbo               | GameFi                                  | 🦀 CosmWasm       | [2 Medium](audit-reports/pdf/AllInGames_Limbo_Final_Audit_Report.pdf)                         |
+| AllinGames: Lottery             | GameFi                                  | 🦀 CosmWasm       | [2 Critical, 1 Medium](audit-reports/pdf/AllInGames_Lottery_Final_Audit_Report.pdf)           |
+| Arcana: Browser Extenstion      | Wallet                                  | Bowser Extenstion | [1 Medium](audit-reports/pdf/Arcana_Wallet_Final_Audit_Report.pdf)                            |
+| AllinGames: Exchange V2         | GameFi                                  | 🦀 CosmWasm       | 🔒 [5 Critical,4 Medium]                                                                      |
+| Arcana: Vault                   | ERC4626, Vault                          | ♦ EVM             | 🔒 [1 High, 3 Medium]                                                                         |
+| Dojima                          | DLT, Omni Chain                         | Go                | 🔒 [1 Critical, 1 High, 6 Medium]                                                             |
+| Save Planet Earth               | DeFi                                    | ♦ EVM             | [2 Critical, 1 High,2 Medium](audit-reports/pdf/SPE_Smart_Contract_Final_Audit_Report.pdf)    |
+| Lara Protocol                   | Staking, Vesting                        | ♦ EVM             | [5 Medium](audit-reports/pdf/Lara_Liquid_Staking_Final_Audit_Report.pdf)                      |
+| Dojima                          | Omni Chain                              | 🦀 Solana         | 🔒 [3 High, 4 Medium]                                                                         |
+| Lendtroller                     | Cross Chain                             | ♦ EVM             | 🔒 [2 Critical, 1 High, 3 Medium]                                                             |
+| Balance                         | Airdrop, Tokenomics                     | ♦ EVM             | 🔒 [1 Critical, 2 High, 4 Medium]                                                             |
+| Dojima                          | Omni Chain, Cross Chain                 | ♦ EVM             | 🔒 [5 Critical, 7 High, 3 Medium]                                                             |
+| Protop Vesting                  |                                         | ♦ EVM             | [1 Critical](audit-reports/pdf/Protop_Vesting_Contracts_Final_Report.pdf)                     |
+| Vouch                           |                                         | ♦ EVM             | [1 High, 1 Medium](audit-reports/pdf/Vouch_Contract_Final_Audit_Report.pdf)                   |
+| SAN                             |                                         | ♦ EVM             | [1 High, 4 Medium](audit-reports/pdf/SAN_Final_Report.pdf)                                    |
+| Registrar                       | ENS                                     | ♦ EVM             | 🔒 [2 Medium]                                                                                 |
+| Tribally Games                  |                                         | ♦ EVM             | [1 High](audit-reports/pdf/Tribally_Games_Final_Report.pdf)                                   |
+| Plutope                         | DeFi                                    | ♦ EVM             | [2 Critical, 5 Medium](audit-reports/pdf/Plutope_Final_Audit_Report.pdf)                      |
+| LogX                            | Validator                               | ♦ EVM             | [3 Critical, 2 High, 2 Medium](audit-reports/pdf/LogX_Token_Final_Report.pdf)                 |
+| Kresus                          | Account Abstraction                     | ♦ EVM             | [1 Critical, 1 High, 1 Medium](audit-reports/pdf/Kresus_Final_Audit_Report.pdf)               |
+| Rex Protocol                    | DeFi, Staking                           | ♦ EVM             | [1 Critical, 5 High, 4 Medium](audit-reports/pdf/Rex_Exchange_Final_Audit_Report.pdf)         |
+| aUSD: Stable Jack               | AMM                                     | ♦ EVM             | [3 Critical, 2 High, 11 Medium](audit-reports/pdf/aUSD_SC_Final_Audit_Report.pdf)             |
+| Arcana Staking                  | Staking                                 | ♦ EVM             | [1 High](audit-reports/pdf/Arcana_Staking_Contract_Final_Audit_Report.pdf)                    |
+| Wasset                          | Staking, Vesting                        | ♦ EVM             | [2 Critical, 3 Medium](audit-reports/pdf/Wasset_Final_Audit_Report.pdf)                       |
+| Numa                            | DeFi, Lending                           | ♦ EVM             | [1 Medium](audit-reports/pdf/Numa_Final_Audit_Report.pdf)                                     |
 
 ## Public Audits:
 
