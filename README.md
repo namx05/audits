@@ -1,7 +1,10 @@
 # About naman:
 
 - He's an independent security researcher with focused expertise in auditing **Solidity**, **Rust** based contracts and decentralized infrastructure across leading blockchain ecosystems, including **EVM**, **Solana**, **Cosmos** **(CosmWasm)**.
-- With over 150+ reviews conducted across public, private, and firm engagements in which **30** was **Rust audits 🦀**. Have audited a diverse range of DeFi protocols, including DEXs, AMMs, GameFi, TradeFi, Account Abstraction, DeFi, order books, cross-chain, bridges, Launchpads and bonding curves.
+- With over 150+ reviews conducted across public, private, and firm engagements in which **30** was **Rust audits 🦀**. Have audited a diverse range of DeFi protocols, including **DEXs, AMMs, GameFi, TradeFi, Account Abstraction, DeFi, order books, cross-chain, bridges, Launchpads and bonding curves**.
+
+<p>
+
 - He is trusted by: <img src="https://github.com/namx05/audits/blob/main/icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin, <img src="https://github.com/namx05/audits/blob/main/icons/guardianaudits.jpg" align="center" width=15 height=15> Guardian, <img src="https://github.com/namx05/audits/blob/main/icons/credshields.png" align="center" width=15 height=15> Credshields , <img src="https://github.com/namx05/audits/blob/main/icons/codespect.jpg" align="center" width=15 height=15> CODESPECT , <img src="https://github.com/namx05/audits/blob/main/icons/burrasec.jpg" align="center" width=15 height=15> BurraSec, <img src="https://github.com/namx05/audits/blob/main/icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify, <img src="https://github.com/namx05/audits/blob/main/icons/hashlock.jpg" align="center" width=15 height=15> Hashlock, and <img src="https://github.com/namx05/audits/blob/main/icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges.
 
 For private audits or security consulting, please reach out to me on via:
@@ -55,7 +58,7 @@ For private audits or security consulting, please reach out to me on via:
 | Capx Launchpad                  | Launchpad                               | ♦ EVM             | [4 Low](audit-reports/pdf/Capx_Launchpad_Final_Audit_Report.pdf)                                |
 | Mandala                         | Launchpad                               | ♦ EVM             | [1 High](audit-reports/pdf/Mandala_Presale_2_Final_Report.pdf)                                  |
 | Safle                           | Cross Chain Registrar                   | ♦ EVM             | [2 Critical, 1 High, 3 Medium](audit-reports/pdf/Safle_Final_Audit_Report.pdf)                  |
-| FUN Token Giveaway              |                                         | ♦ EVM             | [11 Critical, 7 High, 4 Medium](audit-reports/pdf/Fun_Token_Final_Audit_Report.pdf)             |
+| FUN Token Giveaway              | -                                       | ♦ EVM             | [11 Critical, 7 High, 4 Medium](audit-reports/pdf/Fun_Token_Final_Audit_Report.pdf)             |
 | Amgi Studios Round 2            | Cross Chain, Staking                    | ♦ EVM             | 🔒 [7 Critical, 2 High, 2 Medium]                                                               |
 | Vouch                           | Tokenomics                              | ♦ EVM             | [2 Critical, 5 Medium](audit-reports/pdf/Vouch_Token_and_Distribution_Final_Audit_Report.pdf)   |
 | Zodor                           | Staking                                 | ♦ EVM             | [2 Critical, 1 Medium](audit-reports/pdf/Zodor_Staking_Final_Audit_Report.pdf)                  |
@@ -115,7 +118,7 @@ For private audits or security consulting, please reach out to me on via:
 
 ## Public Audits:
 
-| Rank | Public/Contest                                                                                     | Description           | Lang-Ecosystem | Report / Findings                                                                                                           |
+| Rank | Public/Contest                                                                                     | Description           | Lang-Ecosystem | Report / Leaderboard                                                                                                        |
 | ---- | -------------------------------------------------------------------------------------------------- | --------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 🥇   | <img src="icons/superteam.jpg" align="center" width=15 height=15> Prime Skills (Draft)             | GameFi                | 🦀 Solana      | [2 High, 2 Low](https://earn.superteam.fun/listing/smart-contract-improvement-and-audit-for-gaming-protocol)                |
 | 43   | <img src="icons/sherlock.jpg" align="center" width=15 height=15> Super DCA Liquidity Network       | AMM, Uniswap V4 Hooks | ♦ EVM          | [1 High, 1 Medium](https://audits.sherlock.xyz/contests/1171?filter=results)                                                |
