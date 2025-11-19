@@ -9,7 +9,7 @@
 
 - [Severity Ranking Guide](#severity-ranking-guide)
   - [Table of contents:](#table-of-contents)
-- [Pashov's Severity Ranking System](#pashovs-severity-ranking-system)
+- [Severity Ranking System](#severity-ranking-system)
   - [Critical](#critical)
     - [Difference Between High \& Medium](#difference-between-high--medium)
   - [High](#high)
@@ -20,7 +20,7 @@
 
 <br>
 
-# Pashov's Severity Ranking System
+# Severity Ranking System
 
 | Severity           | Impact: High | Impact: Medium | Impact: Low |
 | ------------------ | ------------ | -------------- | ----------- |
