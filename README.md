@@ -16,9 +16,9 @@ For private audits or security consulting, please reach out to me on via:
 
 ## Summary
 
-|   Crit/High    | Medium risk | [Public Audits](#public-audits) | [Private Audits](#private-audits) |
-| :------------: | :---------: | :-----------------------------: | :-------------------------------: |
-| 330+ Crit/High | 300+ Medium |                8                |                148                |
+|   Crit/High    | Medium risk | [Public Audits](#public-audits) | Private Audits |
+| :------------: | :---------: | :-----------------------------: | :------------: |
+| 330+ Crit/High | 300+ Medium |                8                |      148       |
 
 ## naman 🤝 Firm Engagement Review
 
@@ -51,6 +51,7 @@ For private audits or security consulting, please reach out to me on via:
 | Protocol                        | Description                             | Ecosystem         | Report / Findings                                                                               |
 | ------------------------------- | --------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------- |
 | <u><b>2025 </b> </u>            |
+| Zeroxcore                       | Token Distribution                      | 🦀 Solana         | 🔒 [3 Medium]                                                                                   |
 | Okidori: Boosterpack            | NFT Rewards                             | ♦ EVM             | [1 High, 4 Medium](audit-reports/pdf/Okidori_Booster_Pack_Final_Report.pdf)                     |
 | LERN360                         | Staking                                 | ♦ EVM             | [6 Critical, 10 High, 8 Medium](audit-reports/pdf/LERN360_ICO_Contracts_Final_Audit_Report.pdf) |
 | Vouch                           | Staking                                 | ♦ EVM             | [1 Critical, 2 High, 2 Medium](audit-reports/pdf/Vouch_Staking_Final_Audit_Report.pdf)          |
