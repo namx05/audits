@@ -25,6 +25,8 @@ For private audits or security consulting, please reach out to me on via:
 | Protocol              | Description                    | Ecosystem         | Report / Findings                                                                                  | Provider                                                                               |
 | --------------------- | ------------------------------ | ----------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | <u><b>2025 </b> </u>  |
+| Onxy                  | Bonding Curve                  | 🦀 Solana         | 🔒 [Ongoing]                                                                                       | <img src="icons/namx05.jpg" align="center" width=15 height=15> Solo                    |
+| Diffuse Protocol      | ERC4626, Vault                 | ♦ EVM             | 🔒 [-]                                                                                             | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | Clique Lock           | Merkle Distributor             | 🦀 Solana         | 🔒 [1 High, 4 Medium]                                                                              | <img src="icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges           |
 | Redacted              | TradeFi, SPL Whitelisting      | 🦀 Solana         | 🔒 [-]                                                                                             | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
 | Redacted              | TradeFi                        | 🦀 Solana         | 🔒 [-]                                                                                             | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
@@ -51,6 +53,7 @@ For private audits or security consulting, please reach out to me on via:
 | Protocol                        | Description                             | Ecosystem         | Report / Findings                                                                               |
 | ------------------------------- | --------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------- |
 | <u><b>2025 </b> </u>            |
+| Octos                           | Staking                                 | ♦ EVM             | [1 High, 1 Medium](audit-reports/pdf/Octos_Final_Audit_Report.pdf)                              |
 | Guardian Labs                   | Presale                                 | ♦ EVM             | [1 Medium](audit-reports/pdf/Presale_Contracts_Final_Audit_Report.pdf)                          |
 | Avail                           | Chain Abstraction                       | ♦ EVM             | [1 Critical, 3 Medium](audit-reports/pdf/Avail_Vault_Final_Audit_Report.pdf)                    |
 | Zeroxcore                       | Token Distribution                      | 🦀 Solana         | 🔒 [3 Medium]                                                                                   |
