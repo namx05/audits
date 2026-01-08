@@ -4,7 +4,9 @@
 - With over 150+ reviews conducted across public, private, and firm engagements in which **30** was **Rust audits 🦀**. Have audited a diverse range of DeFi protocols, including **DEXs, AMMs, GameFi, TradeFi, Account Abstraction, DeFi, order books, cross-chain, bridges, Launchpads and bonding curves**.
 
 <p>
-- He is trusted by: <img src="https://github.com/namx05/audits/blob/main/icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin, <img src="https://github.com/namx05/audits/blob/main/icons/guardianaudits.jpg" align="center" width=15 height=15> Guardian, <img src="https://github.com/namx05/audits/blob/main/icons/credshields.png" align="center" width=15 height=15> Credshields , <img src="https://github.com/namx05/audits/blob/main/icons/codespect.jpg" align="center" width=15 height=15> CODESPECT , <img src="https://github.com/namx05/audits/blob/main/icons/burrasec.jpg" align="center" width=15 height=15> BurraSec, <img src="https://github.com/namx05/audits/blob/main/icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify, <img src="https://github.com/namx05/audits/blob/main/icons/hashlock.jpg" align="center" width=15 height=15> Hashlock, and <img src="https://github.com/namx05/audits/blob/main/icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges.
+
+- He has collaborated with: <img src="https://github.com/namx05/audits/blob/main/icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin, <img src="https://github.com/namx05/audits/blob/main/icons/guardianaudits.jpg" align="center" width=15 height=15> Guardian, <img src="https://github.com/namx05/audits/blob/main/icons/credshields.png" align="center" width=15 height=15> Credshields , <img src="https://github.com/namx05/audits/blob/main/icons/codespect.jpg" align="center" width=15 height=15> CODESPECT , <img src="https://github.com/namx05/audits/blob/main/icons/burrasec.jpg" align="center" width=15 height=15> BurraSec, <img src="https://github.com/namx05/audits/blob/main/icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify, <img src="https://github.com/namx05/audits/blob/main/icons/hashlock.jpg" align="center" width=15 height=15> Hashlock, and <img src="https://github.com/namx05/audits/blob/main/icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges.
+<!-- - He is trusted with:  -->
 
 For private audits or security consulting, please reach out to me on via:
 
@@ -17,7 +19,7 @@ For private audits or security consulting, please reach out to me on via:
 
 |   Crit/High    | Medium risk | [Public Audits](#public-audits) | Private Audits |
 | :------------: | :---------: | :-----------------------------: | :------------: |
-| 330+ Crit/High | 300+ Medium |                8                |      148       |
+| 350+ Crit/High | 320+ Medium |               11                |      160+      |
 
 ## naman 🤝 Firm Engagement Review
 
@@ -31,7 +33,7 @@ For private audits or security consulting, please reach out to me on via:
 | Clique Lock                             | Merkle Distributor             | 🦀 Solana         | [1 High, 4 Medium](audit-reports/pdf/Clique-SVM-Audit-by-SafeEdges.pdf)                            | <img src="icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges           |
 | Securitize Solana Redemption (SPLToken) | TradeFi, SPL Whitelisting      | 🦀 Solana         | [1 Informational](audit-reports/pdf/2025-10-31-cyfrin-securitize-spltoken-whitelist-v2.0.pdf)      | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
 | Securitize Solana Redemption (DSToken)  | TradeFi                        | 🦀 Solana         | [1 Informational](audit-reports/pdf/2025-11-07-cyfrin-securitize-dstoken-whitelist-svm-v2.0.pdf)   | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
-| dTrinity                                | AMM, Lending, Staking          | ♦ EVM             | 🔒 [5 High, 4 Low](audit-reports/pdf/dTRINITY-Smart-Contract-Audit-Report-Final-Report-v2.pdf)     | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
+| dTrinity                                | AMM, Lending, Staking          | ♦ EVM             | [5 High, 4 Low](audit-reports/pdf/dTRINITY-Smart-Contract-Audit-Report-Final-Report-v2.pdf)        | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | ShowDown Duel                           | GameFi                         | 🦀 Solana         | 🔒 [1 High, 3 Medium]                                                                              | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
 | N4T                                     | Launchpad                      | ♦ EVM             | [4 High, 5 Medium](audit-reports/pdf/N4T-Smart-Contract-Audit-Report-Final-Report-v2.pdf)          | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | Emergence Art                           | NFT Sale                       | ♦ EVM             | [2 High, 2 Medium](audit-reports/pdf/Emergence.art-Smart-Contract-Audit-Report-Final-Repot-v2.pdf) | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
