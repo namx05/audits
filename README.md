@@ -6,7 +6,7 @@
 <p>
 
 - He has collaborated with: <img src="https://github.com/namx05/audits/blob/main/icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin, <img src="https://github.com/namx05/audits/blob/main/icons/guardianaudits.jpg" align="center" width=15 height=15> Guardian, <img src="https://github.com/namx05/audits/blob/main/icons/credshields.png" align="center" width=15 height=15> Credshields , <img src="https://github.com/namx05/audits/blob/main/icons/codespect.jpg" align="center" width=15 height=15> CODESPECT , <img src="https://github.com/namx05/audits/blob/main/icons/burrasec.jpg" align="center" width=15 height=15> BurraSec, <img src="https://github.com/namx05/audits/blob/main/icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify, <img src="https://github.com/namx05/audits/blob/main/icons/hashlock.jpg" align="center" width=15 height=15> Hashlock, and <img src="https://github.com/namx05/audits/blob/main/icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges.
-<!-- - He is trusted with:  -->
+<!-- - He is trusted by:  -->
 
 For private audits or security consulting, please reach out to me on via:
 
@@ -56,6 +56,7 @@ For private audits or security consulting, please reach out to me on via:
 | Protocol                        | Description                             | Ecosystem         | Report / Findings                                                                               |
 | ------------------------------- | --------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------- |
 | <u><b>2025 </b> </u>            |
+| HeyElsa                         | Staking                                 | ♦ EVM             | [2 High, 3 Medium](audit-reports/pdf/HeyElsa_Staking_Final_Audit_Report.pdf)                    |
 | Octos                           | Staking                                 | ♦ EVM             | [1 High, 1 Medium](audit-reports/pdf/Octos_Final_Audit_Report.pdf)                              |
 | Guardian Labs                   | Presale                                 | ♦ EVM             | [1 Medium](audit-reports/pdf/Presale_Contracts_Final_Audit_Report.pdf)                          |
 | Avail                           | Chain Abstraction                       | ♦ EVM             | [1 Critical, 3 Medium](audit-reports/pdf/Avail_Vault_Final_Audit_Report.pdf)                    |
