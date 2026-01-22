@@ -25,10 +25,11 @@ For private audits or security consulting, please reach out to me on via:
 
 | Protocol                                | Description                    | Ecosystem         | Report / Findings                                                                                  | Provider                                                                               |
 | --------------------------------------- | ------------------------------ | ----------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| <u><b>2025 </b> </u>                    |
+| <u><b>2026 </b> </u>                    |
 | Cartha                                  | Vault                          | ♦ EVM             | 🔒 [-]                                                                                             | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | Jailed                                  | GameFi                         | 🦀 Solana         | 🔒 [-]                                                                                             | <img src="icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify         |
 | MarketDAO                               | DAO, Governamce                | ♦ EVM             | 🔒 [-]                                                                                             | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
+| <u><b>2025 </b> </u>                    |
 | MyDexBot                                | AMM                            | ♦ EVM             | 🔒 [1 Medium, 2 Low]                                                                               | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | Domi Chain                              | AMM                            | ♦ EVM             | 🔒 [7 High, 10 Medium, 4 Low]                                                                      | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | Emergence Art: 2nd                      | NFT Sale                       | ♦ EVM             | 🔒 [1 Medium, 2 Low]                                                                               | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
@@ -59,8 +60,9 @@ For private audits or security consulting, please reach out to me on via:
 
 | Protocol                        | Description                             | Ecosystem         | Report / Findings                                                                               |
 | ------------------------------- | --------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------- |
-| <u><b>2025 </b> </u>            |
+| <u><b>2026 </b> </u>            |
 | HeyElsa                         | Staking                                 | ♦ EVM             | [2 High, 3 Medium](audit-reports/pdf/HeyElsa_Staking_Final_Audit_Report.pdf)                    |
+| <u><b>2025 </b> </u>            |
 | Octos                           | Staking                                 | ♦ EVM             | [1 High, 1 Medium](audit-reports/pdf/Octos_Final_Audit_Report.pdf)                              |
 | Guardian Labs                   | Presale                                 | ♦ EVM             | [1 Medium](audit-reports/pdf/Presale_Contracts_Final_Audit_Report.pdf)                          |
 | Avail                           | Chain Abstraction                       | ♦ EVM             | [1 Critical, 3 Medium](audit-reports/pdf/Avail_Vault_Final_Audit_Report.pdf)                    |
