@@ -29,11 +29,11 @@ For private audits or security consulting, please reach out to me on via:
 | Cartha                                  | Vault                          | ♦ EVM             | 🔒 [-]                                                                                             | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | Jailed                                  | GameFi                         | 🦀 Solana         | 🔒 [-]                                                                                             | <img src="icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify         |
 | MarketDAO                               | DAO, Governamce                | ♦ EVM             | 🔒 [-]                                                                                             | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
+|                                         |
 | <u><b>2025 </b> </u>                    |
-| MyDexBot                                | AMM                            | ♦ EVM             | 🔒 [1 Medium, 2 Low]                                                                               | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | Domi Chain                              | AMM                            | ♦ EVM             | 🔒 [7 High, 10 Medium, 4 Low]                                                                      | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | Emergence Art: 2nd                      | NFT Sale                       | ♦ EVM             | 🔒 [1 Medium, 2 Low]                                                                               | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
-| MyDwxBot                                | AMM, UniV2/UniV3               | ♦ EVM             | 🔒 [1 Medium, 2 Low]                                                                               | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
+| MyDexBot                                | AMM, UniV2/UniV3               | ♦ EVM             | [1 Medium, 2 Low](audit-reports/pdf/MyDexBot-Smart-Contract-Audit-Report-Final-Report-v3.pdf)      | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | Onxy                                    | Bonding Curve                  | 🦀 Solana         | 🔒 [2 Critical, 5 High, 3 Medium]                                                                  | <img src="icons/namx05.jpg" align="center" width=15 height=15> Naman Audit Group       |
 | Clique Lock                             | Merkle Distributor             | 🦀 Solana         | [1 High, 4 Medium](audit-reports/pdf/Clique-SVM-Audit-by-SafeEdges.pdf)                            | <img src="icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges           |
 | Securitize Solana Redemption (SPLToken) | TradeFi, SPL Whitelisting      | 🦀 Solana         | [1 Informational](audit-reports/pdf/2025-10-31-cyfrin-securitize-spltoken-whitelist-v2.0.pdf)      | <img src="icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin                  |
@@ -62,6 +62,7 @@ For private audits or security consulting, please reach out to me on via:
 | ------------------------------- | --------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------- |
 | <u><b>2026 </b> </u>            |
 | HeyElsa                         | Staking                                 | ♦ EVM             | [2 High, 3 Medium](audit-reports/pdf/HeyElsa_Staking_Final_Audit_Report.pdf)                    |
+|                                 |
 | <u><b>2025 </b> </u>            |
 | Octos                           | Staking                                 | ♦ EVM             | [1 High, 1 Medium](audit-reports/pdf/Octos_Final_Audit_Report.pdf)                              |
 | Guardian Labs                   | Presale                                 | ♦ EVM             | [1 Medium](audit-reports/pdf/Presale_Contracts_Final_Audit_Report.pdf)                          |
@@ -99,6 +100,7 @@ For private audits or security consulting, please reach out to me on via:
 | BRLA Digital                    | AMM                                     | ♦ EVM             | [2 Critical, 4 Medium](audit-reports/pdf/BRLA_Final_Audit_Report.pdf)                           |
 | Metaco Intelligence Corporation | Restaking                               | ♦ EVM             | [1 Critical, 2 High, 3 Medium](audit-reports/pdf/Zoth_Final_Audit_Report.pdf)                   |
 | Landslide                       | ICM (interchain Messaging), Cross Chain | ♦ EVM             | [4 Critical, 3 High, 1 Medium](audit-reports/pdf/Landslide_Final_Audit_Report.pdf)              |
+|                                 |
 | <u><b>2024 </b> </u>            |
 | Superbots                       | Trading Vault                           | ♦ EVM             | 🔒 [3 Critical, 2 High, 5 Medium]                                                               |
 | AllinGames: Bacarrat            | Casino                                  | 🦀 CosmWasm       | [1 Medium](audit-reports/pdf/AllInGames_Baccarat_Final_Audit_Report.pdf)                        |
