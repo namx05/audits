@@ -19,14 +19,16 @@ For private audits or security consulting, please reach out to me on via:
 
 |   Crit/High    | Medium risk | [Public Audits](#public-audits) | Private Audits |
 | :------------: | :---------: | :-----------------------------: | :------------: |
-| 350+ Crit/High | 320+ Medium |               11                |      160+      |
+| 365+ Crit/High | 350+ Medium |               11                |      170+      |
 
 ## naman 🤝 Firm Engagement Review
 
 | Protocol                                | Description                    | Ecosystem         | Report / Findings                                                                                  | Provider                                                                               |
 | --------------------------------------- | ------------------------------ | ----------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | <u><b>2026 </b> </u>                    |
+| Spice                                   | AMM, Risk Coverage             | ♦ EVM             | 🔒 [-]                                                                                             | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | 1inch                                   | AMM                            | ♦ EVM             | 🔒 [-]                                                                                             | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
+| Clique Lock                             | Merkle Distributor, Staking    | 🦀 Solana         | 🔒 [2 High, 4 Medium]                                                                              | <img src="icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges           |
 | Cartha                                  | Vault                          | ♦ EVM             | 🔒 [6 Medium, 6 Low]                                                                               | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
 | Jailed                                  | GameFi, VRF                    | 🦀 Solana         | 🔒 [4 Medium, 10 Low]                                                                              | <img src="icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify         |
 | MarketDAO                               | DAO, Governamce                | ♦ EVM             | [5 High, 3 Medium](audit-reports/pdf/MarketDAO-Smart-Contract-Audit-Report-Final-Report-v3.pdf)    | <img src="icons/hashlock.jpg" align="center" width=15 height=15> Hashlock              |
@@ -62,6 +64,9 @@ For private audits or security consulting, please reach out to me on via:
 | Protocol                        | Description                             | Ecosystem         | Report / Findings                                                                               |
 | ------------------------------- | --------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------- |
 | <u><b>2026 </b> </u>            |
+| Vouch Staking                   | Staking                                 | ♦ EVM             | [-]                                                                                             |
+| Polar Bear Exchange             | AMM, Vaults                             | ♦ 🦀 Solana       | 🔒 [-]                                                                                          |
+| Aesterizm                       | Cross Chain                             | Canton            | [1Critical, 1 High, 3 Medium](audit-reports/pdf/Asterizm_Final_Audit_Report.pdf)                |
 | HeyElsa                         | Staking                                 | ♦ EVM             | [2 High, 3 Medium](audit-reports/pdf/HeyElsa_Staking_Final_Audit_Report.pdf)                    |
 |                                 |
 | <u><b>2025 </b> </u>            |
